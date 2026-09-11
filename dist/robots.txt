@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://2dygroup.pages.dev/sitemap.xml
+Sitemap: https://2dy-website.pages.dev/sitemap.xml
