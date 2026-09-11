@@ -1,0 +1,175 @@
+{
+  "arkitekture": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoUAA0APxl4slCspySisAgBkCMJZQCsAB4WdiRMottgSe2yAADN8QuERuzeeRMy2nCGC5flDdz7timuFHt/NCiH4eyvviUdapRJPvUAAAA="
+  },
+  "beam": {
+    "width": 3024,
+    "height": 1296,
+    "aspect": 2.3333,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400,
+      3024
+    ],
+    "lqip": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoUAAkAPxl2slEspySisAgBkCMJaQAASmfY4AD+7p74lsuTRiGbnJ7t8AA="
+  },
+  "dyer": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAwCdASoUAA0APxl2slCspySisAgBkCMJaQAAelX3igAA/u0YTAEGMGwjr+9COOD/8uXJ87fqwzY2sAAAAA=="
+  },
+  "hekur": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASoUAA0APxl4s1CspySisAgBkCMJYwAAWN3dZf1CzELgAP7uh6mfmUu/hAPF8Mn+4tCsB8BbRe8aO7H/zwahXkzRC5Wuuf6ixwha7mdEAAA="
+  },
+  "hero": {
+    "width": 3024,
+    "height": 1296,
+    "aspect": 2.3333,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400,
+      3024
+    ],
+    "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAwCdASoUAAkAPxl6slCsqCSisAgBkCMJaQAAMa4KvnE/JAAAAP7juvJiGzeeCW/HyDHvTiW1JpeDgAA="
+  },
+  "konstruksione": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoUAA0APxl2slCspySisAgBkCMJZwC+SBkxzIY7k+pIUAD4MIFEs48fX+LEqGvewZBhrVLCVtCSLG2WtBRGJyPJMSB9K68MJhG3nOWnx3oAAA=="
+  },
+  "materiale": {
+    "width": 2304,
+    "height": 1728,
+    "aspect": 1.3333,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2304
+    ],
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoUAA8APxl4tFGspyUisAgBkCMJZwAAUSFapWZHBrNmsAD9ufo+DTIk3uWG4SezPSRqzX3sgOOe5lX2YXgBwCAA"
+  },
+  "mirembajtje": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoUAA0APxl2slCspySisAgBkCMJaQAAPdVNXoBm81b56AD+gf222yon2yj0VMLHtVrXCzLfcZcWjT05jqf33V+x5ePzKrJdQeH+DWlD6HBIAAAA"
+  },
+  "projekte": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoUAA0APxl0sVCspqSisAgBkCMJZwDE2Bex+ea6c5PAAAD98CH1LzFu7bAdxM3FdSa1xxhuL2c9Lglv2x/wAAAA"
+  },
+  "renderime": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAwCdASoUAA0APxl2s1EspySisAgBkCMJZQC7AAsmtd5CLIAAx0K1c1cmfw89f0bUZ9bZYiYSjLs0/BQILl4A"
+  },
+  "rrethoje": {
+    "width": 2496,
+    "height": 1664,
+    "aspect": 1.5,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400
+    ],
+    "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQBACdASoUAA0APxl2slCspySisAgBkCMJagCdMoRwACsfyO9qz0do+7tAAMkmcMiv+5JQyr1y2WQ8D8VagJjlf42QPdnftvPGY9SYpYKqlsZIYL3GNjAAAAA="
+  },
+  "shkalle": {
+    "width": 2560,
+    "height": 1440,
+    "aspect": 1.7778,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400,
+      2560
+    ],
+    "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoUAAsAPxl2s1EspySisAgBkCMJaQAAPhvxOQELX0CCgAAA/st1TkK0dlEsywOMj5LlLFEGDHn7bkncE16AZWENHqSAgAAA"
+  },
+  "texture": {
+    "width": 3024,
+    "height": 1296,
+    "aspect": 2.3333,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400,
+      3024
+    ],
+    "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAwCdASoUAAkAPxl2s1EspySusAgB0CMJaQAASn11uAAA/sBToVX2ksFH3DNag1PvG9cAAAA="
+  },
+  "workshop": {
+    "width": 2560,
+    "height": 1440,
+    "aspect": 1.7778,
+    "widths": [
+      640,
+      1024,
+      1600,
+      2400,
+      2560
+    ],
+    "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAwCdASoUAAsAPxl2slCspySisAgBkCMJYwDA3CG8nEbp2pQK+Y4AAP7uh+UKAjbLcKLDvcf3Y2hpFeTTaAvu5ggbEAAA"
+  }
+}

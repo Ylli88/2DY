@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "code": "en",
+    "htmlLang": "en",
+    "name": "English",
+    "nameEn": "English",
+    "dir": "ltr",
+    "isDefault": false,
+    "ogLocale": "en_US",
+    "fontSubsets": [
+      "geist-latin"
+    ]
+  },
+  "brand": {
+    "name": "2DY",
+    "legal": "2DY sh.p.k.",
+    "tagline": "Metalwork, Architecture, Maintenance, Project management",
+    "since": "2020",
+    "madeBy": "made by"
+  },
+  "nav": {
+    "home": "Home",
+    "hekur": "Metalwork",
+    "arkitekture": "Architecture",
+    "mirembajtje": "Maintenance",
+    "projekte": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "backHome": "Back to home",
+    "skipToContent": "Skip to content",
+    "primary": "Main navigation",
+    "breadcrumb": "Breadcrumb",
+    "openMenu": "Open menu"
+  },
+  "ui": {
+    "index": "Index",
+    "scroll": "Scroll",
+    "explore": "View",
+    "details": "Details",
+    "viewAll": "View all",
+    "requestQuote": "Request a quote",
+    "startProject": "Start a project",
+    "contactUs": "Contact us",
+    "bookVisit": "Book a site survey",
+    "next": "Next",
+    "prev": "Previous",
+    "email": "Email",
+    "phone": "Phone",
+    "loading": "Loading",
+    "services": "Services",
+    "capability": "Discipline",
+    "sectionOf": "of"
+  },
+  "home": {
+    "seo": {
+      "title": "Metalwork, Architecture & Project Management | 2DY",
+      "description": "2DY designs and builds steel structures, fences and metal doors in Kosovo, alongside architectural plans and project management. Precise work, clean finish.",
+      "keywords": "metalwork Kosovo, steel structures, metal fences, metal doors, architecture Kosovo, project management, professional welding, 2DY"
+    },
+    "hero": {
+      "kicker": "Fabrication, Design, Installation",
+      "titleLine1": "Metal",
+      "titleLine2": "made",
+      "titleAccent": "well",
+      "lead": "2DY works across metalwork, architecture, maintenance and project management, with a clean aesthetic and precise execution.",
+      "ctaPrimary": "Start a project",
+      "ctaSecondary": "View services"
+    },
+    "manifesto": {
+      "eyebrow": "The company",
+      "statement": "A family metalworking company, extended into design, site supervision and renovation. Every structure we deliver is built for real use.",
+      "columns": [
+        {
+          "title": "Minimal",
+          "body": "Sharp design, with full attention on the quality of execution and the clarity of the detail."
+        },
+        {
+          "title": "Professional",
+          "body": "Clear documentation and controlled work at every stage, from the first measurement to installation."
+        },
+        {
+          "title": "Coordination",
+          "body": "Defined deadlines and transparent communication for the whole duration of the project."
+        }
+      ]
+    },
+    "servicesIntro": {
+      "eyebrow": "Services",
+      "title": "Four disciplines, one standard",
+      "body": "We work across four closely connected disciplines. It means a project can move from concept to fabrication and on to maintenance without changing partner."
+    },
+    "materials": {
+      "eyebrow": "Materials & finishes",
+      "title": "What we work with",
+      "body": "The choice of material and protective treatment determines how long a structure lasts. These are the finishes we work with most often.",
+      "items": [
+        {
+          "name": "Mild steel",
+          "spec": "Hot-rolled sections",
+          "body": "Hot-rolled sections and beams, worked and welded to the loads of the project."
+        },
+        {
+          "name": "Hot-dip zinc",
+          "spec": "Galvanising",
+          "body": "Maximum protection against corrosion for structures exposed to the weather."
+        },
+        {
+          "name": "Powder coat",
+          "spec": "Baked finish",
+          "body": "A matt or satin finish, resistant to scratching and to sunlight."
+        },
+        {
+          "name": "Stainless steel",
+          "spec": "Inox",
+          "body": "For elements that call for high resistance and a clean appearance over the long term."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Process",
+      "title": "How we work",
+      "body": "The same sequence on every project, whatever its size.",
+      "steps": [
+        {
+          "title": "Site survey",
+          "body": "A visit to the location, accurate measurements and a photographic record of the existing condition."
+        },
+        {
+          "title": "Concept & quote",
+          "body": "The technical solution, the materials, the timeline and the cost: all in writing, before work begins."
+        },
+        {
+          "title": "Fabrication",
+          "body": "Cutting, welding and protective treatment in the workshop, with a quality check at every step."
+        },
+        {
+          "title": "Installation & handover",
+          "body": "Safe installation on site, correct levelling and a check of the finished work before handover."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Contact",
+      "title": "Let's begin.",
+      "body": "Send us a short description: what you need, dimensions or photographs, the location and the timeline.",
+      "action": "Write to us"
+    },
+    "forge": {
+      "eyebrow": "Structure",
+      "title": "Built to carry load",
+      "body": "Every structure begins as a lattice of sections calculated for the load, the environment and the way it will actually be used.",
+      "hintHover": "Move your cursor to shift the light",
+      "hintTouch": "Scroll to travel through the structure"
+    }
+  },
+  "services": [
+    {
+      "id": "hekur",
+      "slug": "metalwork",
+      "number": "01",
+      "image": "hekur",
+      "nav": "Metalwork",
+      "title": "Metalwork",
+      "titleLine1": "Work",
+      "titleLine2": "in metal",
+      "kicker": "Fabrication, Installation, Repair",
+      "lead": "Metal solutions with a clean finish, from concept to installation.",
+      "summary": "Design, fabrication and installation of metal structures, with a focus on safety and a clean finish.",
+      "bullets": [
+        "Steel structures, stairs, fences",
+        "Reinforcement, professional welding",
+        "Site measurement and installation"
+      ],
+      "seo": {
+        "title": "Metalwork: steel structures, fences, metal doors | 2DY",
+        "description": "Steel structures, fences and metal doors designed, welded and installed by 2DY. Professional welding, anti-corrosion treatment and controlled fitting on site.",
+        "keywords": "steel structures Kosovo, metal fences, metal doors, professional welding, steel stairs, metal gates"
+      },
+      "sections": [
+        {
+          "id": "konstruksione",
+          "number": "01",
+          "image": "konstruksione",
+          "title": "Steel structures",
+          "kicker": "Sections, Beams, Welding",
+          "paragraphs": [
+            "We build steel structures on clear technical principles, with structural safety and controlled work at every stage. The process begins with an analysis of the project and of the client's real needs, and continues with the selection of sections and beams suited to the load, the use and the environment in which the structure will stand.",
+            "Welding is carried out with precision and continuous control, respecting technical standards and producing strong, durable joints. Once welded, the structures are treated for long-term protection against corrosion and wear, so that they hold their integrity and their function over time.",
+            "Installation on site is handled by a specialist team, with precise planning and full regard for safety. We give weight not only to the strength of the structure, but also to the cleanliness of the work, correct levelling and the finish, so that the final result is technically sound and visually composed.",
+            "Every structure we deliver is built for real use, with a focus on longevity, stability and reliable performance in varying conditions."
+          ],
+          "bullets": [
+            "Steel sections and beams",
+            "Professional welding",
+            "Safe, controlled installation"
+          ]
+        },
+        {
+          "id": "rrethoje",
+          "number": "02",
+          "image": "rrethoje",
+          "title": "Metal fences",
+          "kicker": "Yards, Industry, Business",
+          "paragraphs": [
+            "We design and build metal fences that are functional and durable, adapted to private yards, industrial sites and commercial premises. Every fence is built with security, resistance to the weather and daily use in mind, without compromise on the quality of the work.",
+            "We use sections and metal elements selected for the needs of the project, with clean welding and protective treatment for long life and minimal maintenance. Design and structure are adapted to the terrain and to the client's requirements, giving stability and reliable performance over time.",
+            "Installation on site is carried out with accuracy and clear planning, ensuring correct alignment, firm fixing and a properly finished result. What you get is a fence built for the long term, one that provides security, order and a clean visual line."
+          ],
+          "bullets": [
+            "Metal sections and panels",
+            "Protective anti-corrosion treatment",
+            "Adapted to the terrain"
+          ]
+        },
+        {
+          "id": "dyer",
+          "number": "03",
+          "image": "dyer",
+          "title": "Metal doors",
+          "kicker": "Security, Made to measure",
+          "paragraphs": [
+            "We design and build metal doors that are strong, functional and made for daily use. Every door is produced to the exact dimensions and requirements of the project, combining structural security with a clean, correct finish.",
+            "We work with quality metal sections, welded with precision and treated for long-term resistance to wear and to the weather. The design is adapted to the setting, private yards, industrial entrances or commercial premises, for smooth operation and long service.",
+            "Installation on site is carried out with accuracy and full control, ensuring correct alignment, secure closing and reliable use over time. The result is a metal door built for real security and practical use, with no compromise on quality."
+          ],
+          "bullets": [
+            "Quality metal materials",
+            "Precision welding",
+            "Installation and adjustment on site"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arkitekture",
+      "slug": "architecture",
+      "number": "02",
+      "image": "arkitekture",
+      "nav": "Architecture",
+      "title": "Architecture & concept",
+      "titleLine1": "Minimal",
+      "titleLine2": "architecture",
+      "kicker": "Concept, Drawings, Visualisation",
+      "lead": "2D drawings, 3D visualisations and clear documentation.",
+      "summary": "Concept, drawings and minimal visualisations, from the idea to the documentation.",
+      "bullets": [
+        "2D drawings, 3D visualisations",
+        "Optimisation of space",
+        "Technical documentation as required"
+      ],
+      "seo": {
+        "title": "Architecture: 2D plans, 3D visuals and renders | 2DY",
+        "description": "Architectural concepts, detailed 2D plans, 3D visualisations and photorealistic renders for homes and businesses. Complete technical documentation by 2DY.",
+        "keywords": "architecture Kosovo, 2D plans, 3D visualisation, photorealistic renders, architectural design, technical documentation"
+      },
+      "sections": [
+        {
+          "id": "koncept",
+          "number": "01",
+          "image": "arkitekture",
+          "title": "Concept, 2D & 3D drawings",
+          "kicker": "Analysis, Layout, Documentation",
+          "paragraphs": [
+            "We design and document minimal, functional architecture for homes and businesses, with a focus on clarity, quality and precise execution. Every project begins with an analysis of the client's needs, the location and the dimensions, in order to develop a clean concept that holds function and aesthetics together.",
+            "The 2D drawings are prepared with full technical detail, accurate measurements and specifications for each element, so that execution on site is direct and free of ambiguity. Every drawing is checked and verified for accuracy and for compliance with technical standards.",
+            "3D visualisations let clients see the idea before construction begins, so details and changes can be discussed while they are still easy to make. Clear renders and illustrated details support better-informed decisions and reduce surprises during execution.",
+            "The result is complete documentation and a clear visual record, an architectural solution built with method and proven ready for accurate execution."
+          ],
+          "bullets": [
+            "Detailed 2D layouts",
+            "Realistic 3D visualisations",
+            "Complete technical documentation"
+          ]
+        },
+        {
+          "id": "renderime",
+          "number": "02",
+          "image": "renderime",
+          "title": "Visualisations & photorealistic renders",
+          "kicker": "Render, Light, Material",
+          "paragraphs": [
+            "We produce 3D visualisations and photorealistic renders that take the architectural idea and turn it into clear, detailed, convincing images. Every render is prepared with professional lighting, realistic textures and accurate visual detail, giving a true reading of the project before it starts.",
+            "Renders are used in presentations to clients, investors and the relevant authorities, making the vision easier to understand and the decisions easier to take. They give a realistic view of the project, of materials, light, colour and the composition of the space.",
+            "Where it is useful, we also produce short animations that move through the spaces of the project, helping clients and everyone involved to read the flow and the use of the space more clearly.",
+            "Renders are an investment in clear communication before the project begins, they reduce ambiguity, build confidence and make sure every party understands the vision before the real investment is made."
+          ],
+          "bullets": [
+            "Photorealistic HD renders",
+            "Studies of material and light",
+            "Short animations"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mirembajtje",
+      "slug": "maintenance",
+      "number": "03",
+      "image": "mirembajtje",
+      "nav": "Maintenance",
+      "title": "Maintenance",
+      "titleLine1": "Building",
+      "titleLine2": "maintenance",
+      "kicker": "Preventive, Repairs, Servicing",
+      "lead": "Maintenance for metal elements and for spaces, to keep them safe and working.",
+      "summary": "Periodic checks, repairs and servicing, quick, clean and accountable.",
+      "bullets": [
+        "Preventive maintenance",
+        "Emergency repairs",
+        "Replacements and adjustments"
+      ],
+      "seo": {
+        "title": "Maintenance and servicing of metalwork | 2DY",
+        "description": "Inspections, preventive maintenance, emergency repairs and anti-corrosion treatment for metal elements in homes, businesses and industrial premises.",
+        "keywords": "metalwork maintenance, emergency repairs, servicing, anti-corrosion treatment, inspection, Kosovo"
+      },
+      "sections": [
+        {
+          "id": "servisim",
+          "number": "01",
+          "image": "mirembajtje",
+          "title": "Servicing & repairs",
+          "kicker": "Inspection, Repair, Reporting",
+          "paragraphs": [
+            "We carry out detailed inspections and quick diagnostics to identify problems before they become critical. We perform preventive work, replace parts and repair in place with professional welding and mechanical adjustment, along with protective anti-corrosion treatment to extend the life of each element.",
+            "For clients we offer maintenance plans with periodic checks, documentation and transparent reporting of the work carried out. We respond to emergencies with a team equipped to install and restore function on site, and we test and verify after every repair.",
+            "Our priority is safety, function and durable solutions, adapted to homes, businesses and industrial premises."
+          ],
+          "bullets": [
+            "Inspection and diagnosis",
+            "Repair or replacement",
+            "Mechanical adjustment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projekte",
+      "slug": "project-management",
+      "number": "04",
+      "image": "projekte",
+      "nav": "Projects",
+      "title": "Project management",
+      "titleLine1": "Project",
+      "titleLine2": "management",
+      "kicker": "Planning, Coordination, Control",
+      "lead": "Coordination and control of projects, from planning to final handover.",
+      "summary": "Planning, coordination and control of schedule and budget for small and mid-sized projects.",
+      "bullets": [
+        "Work plan and schedule",
+        "Coordination of subcontractors",
+        "Progress reporting"
+      ],
+      "seo": {
+        "title": "Construction project management: planning | 2DY",
+        "description": "Management of small and mid-sized projects: a detailed work plan, coordination of teams and subcontractors, budget control and transparent progress reporting.",
+        "keywords": "project management, site supervision, contractor coordination, budget control, construction Kosovo"
+      },
+      "sections": [
+        {
+          "id": "planifikim",
+          "number": "01",
+          "image": "projekte",
+          "title": "Planning & coordination",
+          "kicker": "Schedule, Budget, Quality",
+          "paragraphs": [
+            "We manage small and mid-sized projects with clear planning, efficient coordination and full control at every stage. Every project begins with a detailed work plan setting out the activities, the deadlines, the resources and the expected costs, so that execution is organised and free of obstruction.",
+            "We coordinate the different teams: architects, engineers, contractors and suppliers: with transparent communication and respect for the schedule at every stage. We monitor progress through regular inspections, progress reporting and the quick resolution of any problem that arises.",
+            "We manage the project budget carefully, tracking actual costs against the planned estimate, and we inform clients openly about any change or additional cost. Quality assurance is a priority, every piece of work is checked against approved standards and technical specifications.",
+            "The result is projects delivered on time, within budget and to the quality expected, a calm experience for the client, from the planning stage through to final handover."
+          ],
+          "bullets": [
+            "Detailed work plan",
+            "Coordination of teams and contractors",
+            "Reporting and quality control"
+          ]
+        }
+      ]
+    }
+  ],
+  "about": {
+    "slug": "about",
+    "titleLine1": "About",
+    "titleLine2": "us",
+    "kicker": "Family, Tradition, Method",
+    "lead": "A family company with many years of experience in metalworking.",
+    "seo": {
+      "title": "About us: a family metalworking company | 2DY",
+      "description": "2DY is a family company with many years of experience in metalworking, formally established in 2020 as the continuation of 2DY sh.p.k. Meet the team behind it.",
+      "keywords": "2DY, family company, metalworking, Kosovo, Fadil Rexhaj, site supervision"
+    },
+    "story": {
+      "eyebrow": "The company",
+      "title": "What is 2DY?",
+      "paragraphs": [
+        "2DY is a company with strong family foundations and many years of experience in metalworking. Formally established in 2020, 2DY continues the work of 2DY sh.p.k., carrying forward the commitment, the professionalism and the tradition built up over the years by the previous generation.",
+        "Over time, 2DY has grown into a multidisciplinary company and widened its fields of activity."
+      ],
+      "expansionIntro": "The expanded fields of activity:",
+      "expansion": [
+        "Architectural and engineering design",
+        "Development of construction projects",
+        "Professional technical consultancy",
+        "Supervision of construction works",
+        "Renovation of commercial buildings and family properties"
+      ],
+      "closing": "Our aim is to deliver durable, functional and contemporary solutions, combining traditional experience in metalworking with a modern approach to architecture and engineering."
+    },
+    "mission": {
+      "eyebrow": "Mission",
+      "title": "Our mission",
+      "body": "The mission of 2DY is to provide professional, durable and tailored solutions in design, metalworking, site supervision and renovation. Through a commitment to quality, efficiency and innovation, we set out to build functional, well-considered spaces that serve the needs of our clients, in the private sector and the commercial one alike. 2DY works to be a dependable partner that brings value and confidence to every project it takes on, drawing on many years of experience."
+    },
+    "team": {
+      "eyebrow": "The team",
+      "title": "The people",
+      "members": [
+        {
+          "name": "Fadil Rexhaj",
+          "role": "Owner & CEO",
+          "email": "fadilrexhaj.b.i@gmail.com"
+        },
+        {
+          "name": "Ylli Rexhaj",
+          "role": "Mechatronics Engineer",
+          "email": "yllirexhajj@gmail.com"
+        },
+        {
+          "name": "Kujtim Paçarizi",
+          "role": "Architect",
+          "email": "aekgroup.ks@gmail.com"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "slug": "contact",
+    "titleLine1": "Let's",
+    "titleLine2": "begin",
+    "kicker": "Quote, Survey, Consultation",
+    "lead": "Send us a short description: what you need, dimensions or photographs, the location and the timeline.",
+    "seo": {
+      "title": "Contact: request a quote or book a site survey | 2DY",
+      "description": "Contact 2DY for a quote, a site survey or technical advice on metalwork and architecture. Phone +383 48 140 354, email fadilrexhaj.b.i@gmail.com.",
+      "keywords": "contact 2DY, request a quote, site survey, metalwork Kosovo"
+    },
+    "personLabel": "Contact person",
+    "person": "Fadil Rexhaj",
+    "role": "Owner & CEO",
+    "email": "fadilrexhaj.b.i@gmail.com",
+    "phone": "+383 48 140 354",
+    "phoneRaw": "+38348140354",
+    "hoursLabel": "Hours",
+    "hours": "Monday – Saturday, 08:00 – 18:00",
+    "areaLabel": "Service area",
+    "area": "Kosovo and the region",
+    "socialLabel": "Social",
+    "form": {
+      "title": "Describe the project",
+      "name": "Your name",
+      "namePlaceholder": "First and last name",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+383 4X XXX XXX",
+      "service": "Service",
+      "servicePlaceholder": "Choose a service",
+      "location": "Location",
+      "locationPlaceholder": "Town or village",
+      "message": "Description",
+      "messagePlaceholder": "What you need, dimensions, timeline…",
+      "submit": "Send request",
+      "sending": "Sending…",
+      "success": "We have prepared a draft in your email app: press Send there to complete your request.",
+      "error": "We could not open your email app. Please write to us directly at fadilrexhaj.b.i@gmail.com.",
+      "required": "Required",
+      "note": "By sending this form, you agree that we may contact you about your request."
+    }
+  },
+  "footer": {
+    "tagline": "Metalwork, Architecture, Maintenance, Project management",
+    "servicesLabel": "Services",
+    "companyLabel": "Company",
+    "contactLabel": "Contact",
+    "languageLabel": "Language",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "notFound": {
+    "slug": "404",
+    "code": "404",
+    "title": "Page not found",
+    "body": "The link you followed does not exist, or it has moved.",
+    "action": "Back to home",
+    "seo": {
+      "title": "Page not found | 2DY",
+      "description": "The page you are looking for does not exist."
+    }
+  }
+}

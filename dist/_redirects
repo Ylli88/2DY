@@ -1,0 +1,10 @@
+# Legacy URLs from the previous site
+/index.html  /  301
+/sherbime-hekur.html  /punime-me-hekur/  301
+/sherbime-arkitekture.html  /arkitekture/  301
+/sherbime-mirembajtje.html  /mirembajtje/  301
+/sherbime-projekte.html  /menaxhim-projektesh/  301
+/rreth-nesh.html  /rreth-nesh/  301
+
+# Convenience
+/sq/*  /:splat  301

@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "code": "de",
+    "htmlLang": "de",
+    "name": "Deutsch",
+    "nameEn": "German",
+    "dir": "ltr",
+    "isDefault": false,
+    "ogLocale": "de_DE",
+    "fontSubsets": [
+      "geist-latin"
+    ]
+  },
+  "brand": {
+    "name": "2DY",
+    "legal": "2DY sh.p.k.",
+    "tagline": "Metallbau, Architektur, Instandhaltung, Projektmanagement",
+    "since": "2020",
+    "madeBy": "umgesetzt von"
+  },
+  "nav": {
+    "home": "Startseite",
+    "hekur": "Metallbau",
+    "arkitekture": "Architektur",
+    "mirembajtje": "Instandhaltung",
+    "projekte": "Projekte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "close": "Schließen",
+    "language": "Sprache",
+    "backHome": "Zurück zur Startseite",
+    "skipToContent": "Zum Inhalt springen",
+    "primary": "Hauptnavigation",
+    "breadcrumb": "Brotkrümelnavigation",
+    "openMenu": "Menü öffnen"
+  },
+  "ui": {
+    "index": "Index",
+    "scroll": "Nach unten",
+    "explore": "Ansehen",
+    "details": "Details",
+    "viewAll": "Alle ansehen",
+    "requestQuote": "Angebot anfordern",
+    "startProject": "Projekt starten",
+    "contactUs": "Kontakt aufnehmen",
+    "bookVisit": "Aufmaß vor Ort vereinbaren",
+    "next": "Weiter",
+    "prev": "Zurück",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "loading": "Wird geladen",
+    "services": "Leistungen",
+    "capability": "Bereich",
+    "sectionOf": "von"
+  },
+  "home": {
+    "seo": {
+      "title": "Metallbau, Architektur & Projektmanagement Kosovo | 2DY",
+      "description": "2DY plant und fertigt Stahlkonstruktionen, Zäune und Metalltüren, dazu Architekturpläne und Projektmanagement im Kosovo. Präzise Ausführung, klare Termine.",
+      "keywords": "Metallbau Kosovo, Stahlkonstruktionen, Metallzaun, Metalltüren, Architektur Kosovo, Projektmanagement Bau, Schweißarbeiten, Metallbau Prishtina, 2DY"
+    },
+    "hero": {
+      "kicker": "Fertigung, Planung, Montage",
+      "titleLine1": "Metall",
+      "titleLine2": "durchdacht",
+      "titleAccent": "gefertigt",
+      "lead": "2DY arbeitet mit Metall, Architektur, Instandhaltung und Projektmanagement, mit klarer Ästhetik und präziser Ausführung.",
+      "ctaPrimary": "Projekt starten",
+      "ctaSecondary": "Leistungen ansehen"
+    },
+    "manifesto": {
+      "eyebrow": "Das Unternehmen",
+      "statement": "Ein Familienbetrieb der Metallverarbeitung, erweitert um Planung, Bauüberwachung und Sanierung. Jede Konstruktion, die wir übergeben, ist für den realen Einsatz gebaut.",
+      "columns": [
+        {
+          "title": "Minimal",
+          "body": "Klares Design, mit vollem Fokus auf die Qualität der Ausführung und die Sauberkeit des Details."
+        },
+        {
+          "title": "Professionell",
+          "body": "Klare Dokumentation und kontrollierte Arbeit in jeder Phase, vom ersten Aufmaß bis zur Montage."
+        },
+        {
+          "title": "Koordination",
+          "body": "Festgelegte Termine und transparente Kommunikation über die gesamte Projektdauer."
+        }
+      ]
+    },
+    "servicesIntro": {
+      "eyebrow": "Leistungen",
+      "title": "Vier Bereiche, ein Standard",
+      "body": "Wir arbeiten in vier eng miteinander verbundenen Bereichen. Ein Projekt kann so vom Konzept über die Fertigung bis zur Instandhaltung laufen, ohne den Partner zu wechseln."
+    },
+    "materials": {
+      "eyebrow": "Materialien & Finish",
+      "title": "Was wir verwenden",
+      "body": "Die Wahl des Materials und der Schutzbehandlung bestimmt die Lebensdauer der Konstruktion. Mit diesen Finishes arbeiten wir am häufigsten.",
+      "items": [
+        {
+          "name": "Schwarzstahl",
+          "spec": "Warmgewalzte Profile",
+          "body": "Warmgewalzte Profile und Träger, bearbeitet und geschweißt nach der Belastung des Projekts."
+        },
+        {
+          "name": "Feuerverzinkt",
+          "spec": "Verzinkung",
+          "body": "Maximaler Korrosionsschutz für Konstruktionen, die der Witterung ausgesetzt sind."
+        },
+        {
+          "name": "Pulverlack",
+          "spec": "Pulverbeschichtung",
+          "body": "Mattes oder seidenmattes Finish, beständig gegen Kratzer und Sonneneinstrahlung."
+        },
+        {
+          "name": "Edelstahl",
+          "spec": "Rostfreier Stahl",
+          "body": "Für Elemente, die hohe Beständigkeit und ein dauerhaft sauberes Erscheinungsbild verlangen."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Der Prozess",
+      "title": "Wie wir arbeiten",
+      "body": "Ein gleicher Arbeitsablauf für jedes Projekt, unabhängig von der Größe.",
+      "steps": [
+        {
+          "title": "Aufmaß vor Ort",
+          "body": "Ortstermin, präzises Aufmaß und Fotodokumentation des Bestands."
+        },
+        {
+          "title": "Konzept & Angebot",
+          "body": "Technische Lösung, Materialien, Termin und Kosten: alles schriftlich, bevor die Arbeit beginnt."
+        },
+        {
+          "title": "Fertigung",
+          "body": "Zuschnitt, Schweißen und Schutzbehandlung in der Werkstatt, mit Qualitätskontrolle bei jedem Schritt."
+        },
+        {
+          "title": "Montage & Übergabe",
+          "body": "Sichere Montage vor Ort, korrektes Ausrichten und Funktionsprüfung vor der Übergabe."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Kontakt",
+      "title": "Beginnen wir.",
+      "body": "Senden Sie uns eine kurze Beschreibung: was Sie brauchen, Maße oder Fotos, den Standort und den Termin.",
+      "action": "Schreiben Sie uns"
+    },
+    "forge": {
+      "eyebrow": "Struktur",
+      "title": "Gebaut, um Last zu tragen",
+      "body": "Jede Konstruktion beginnt als Raster aus Profilen, berechnet für Last, Umgebung und den tatsächlichen Einsatz.",
+      "hintHover": "Bewegen Sie den Cursor, um das Licht zu verschieben",
+      "hintTouch": "Scrollen Sie durch die Struktur"
+    }
+  },
+  "services": [
+    {
+      "id": "hekur",
+      "slug": "metallbau",
+      "number": "01",
+      "image": "hekur",
+      "nav": "Metallbau",
+      "title": "Metallbau",
+      "titleLine1": "Arbeiten",
+      "titleLine2": "in Metall",
+      "kicker": "Fertigung, Montage, Reparatur",
+      "lead": "Metalllösungen mit sauberem Finish, vom Konzept bis zur Montage.",
+      "summary": "Planung, Fertigung und Montage von Metallkonstruktionen mit Fokus auf Sicherheit und sauberes Finish.",
+      "bullets": [
+        "Stahlkonstruktionen, Treppen, Zäune",
+        "Verstärkungen, professionelles Schweißen",
+        "Aufmaß vor Ort und Montage"
+      ],
+      "seo": {
+        "title": "Metallbau: Konstruktionen, Zäune und Metalltüren | 2DY",
+        "description": "Stahlkonstruktionen, Zäune und Metalltüren von 2DY: geplant, geschweißt, montiert. Saubere Schweißnähte, Korrosionsschutz und kontrollierte Montage vor Ort.",
+        "keywords": "Stahlkonstruktionen Kosovo, Metallzaun, Metalltüren, Schweißarbeiten, Metalltreppen, Metallbau Prishtina"
+      },
+      "sections": [
+        {
+          "id": "konstruksione",
+          "number": "01",
+          "image": "konstruksione",
+          "title": "Stahlkonstruktionen",
+          "kicker": "Profile, Träger, Schweißen",
+          "paragraphs": [
+            "Wir realisieren Stahlkonstruktionen, die auf klaren technischen Prinzipien, struktureller Sicherheit und kontrollierter Arbeit in jeder Phase beruhen. Unser Prozess beginnt mit der Analyse des Projekts und des tatsächlichen Bedarfs des Kunden und führt weiter zur Auswahl der Profile und Träger, die zur Last, zur Nutzung und zur Umgebung passen, in der die Konstruktion installiert wird.",
+            "Die Schweißarbeiten führen wir mit Präzision und laufender Kontrolle aus, unter Einhaltung der technischen Standards und mit festen, dauerhaften Verbindungen. Nach dem Schweißen werden die Konstruktionen für einen langfristigen Schutz gegen Korrosion und Verschleiß behandelt, damit sie ihre Integrität und ihre Funktion über die Jahre behalten.",
+            "Die Montage vor Ort übernimmt ein spezialisiertes Team, mit genauer Planung und vollständiger Einhaltung der Sicherheitsvorgaben. Wir achten nicht nur auf die Festigkeit der Konstruktion, sondern ebenso auf die Sauberkeit der Arbeit, das korrekte Ausrichten und den ästhetischen Abschluss, damit das Ergebnis technisch sicher und visuell ruhig ist.",
+            "Jede Konstruktion, die wir übergeben, ist eine für den realen Einsatz gebaute Lösung, mit Fokus auf Lebensdauer, Stabilität und zuverlässige Funktion unter wechselnden Bedingungen."
+          ],
+          "bullets": [
+            "Profile und Stahlträger",
+            "Professionelles Schweißen",
+            "Sichere und kontrollierte Montage"
+          ]
+        },
+        {
+          "id": "rrethoje",
+          "number": "02",
+          "image": "rrethoje",
+          "title": "Metallzäune",
+          "kicker": "Höfe, Industrie, Gewerbe",
+          "paragraphs": [
+            "Wir planen und realisieren funktionale und dauerhafte Metallzäune für private Höfe, Industrieflächen und gewerbliche Bereiche. Jeder Zaun entsteht unter Berücksichtigung von Sicherheit, Witterungsbeständigkeit und täglicher Nutzung, ohne Kompromisse bei der Qualität der Arbeit.",
+            "Wir verwenden Profile und Metallelemente, die nach dem Bedarf des Projekts ausgewählt werden, mit sauberer Schweißnaht und Schutzbehandlung für lange Lebensdauer und minimalen Wartungsaufwand. Gestaltung und Aufbau richten sich nach dem Gelände und den Anforderungen des Kunden und sichern Stabilität und zuverlässige Funktion über die Jahre.",
+            "Die Montage vor Ort erfolgt präzise und klar geplant, mit gerader Ausrichtung, fester Verankerung und korrektem ästhetischem Abschluss. Das Ergebnis ist ein Zaun für den langfristigen Einsatz, der Sicherheit, Ordnung und ein sauberes Erscheinungsbild bietet."
+          ],
+          "bullets": [
+            "Profile und Metallpaneele",
+            "Korrosionsschutzbehandlung",
+            "Anpassung an das Gelände"
+          ]
+        },
+        {
+          "id": "dyer",
+          "number": "03",
+          "image": "dyer",
+          "title": "Metalltüren",
+          "kicker": "Sicherheit, Maßanfertigung",
+          "paragraphs": [
+            "Wir planen und fertigen stabile, funktionale Metalltüren, die für den täglichen Gebrauch gebaut sind. Jede Tür entsteht nach den konkreten Maßen und Anforderungen des Projekts und verbindet strukturelle Sicherheit mit einem sauberen, korrekten Abschluss.",
+            "Wir arbeiten mit hochwertigen Metallprofilen, präzise geschweißt und behandelt für langfristige Beständigkeit gegen Verschleiß und Witterung. Die Gestaltung richtet sich nach der Umgebung, ob privater Hof, industrieller Zugang oder gewerblicher Bereich, und sichert einen ruhigen Lauf und lange Lebensdauer.",
+            "Die Montage vor Ort erfolgt präzise und vollständig kontrolliert, mit gerader Ausrichtung, sicherem Schließen und zuverlässiger Nutzung über die Jahre. Das Ergebnis ist eine Metalltür, die für echte Sicherheit und praktischen Gebrauch gebaut ist, ohne Kompromisse bei der Qualität."
+          ],
+          "bullets": [
+            "Hochwertige Metallmaterialien",
+            "Präzises Schweißen",
+            "Montage und Einstellung vor Ort"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arkitekture",
+      "slug": "architektur",
+      "number": "02",
+      "image": "arkitekture",
+      "nav": "Architektur",
+      "title": "Architektur & Konzept",
+      "titleLine1": "Minimale",
+      "titleLine2": "Architektur",
+      "kicker": "Konzept, Pläne, Visualisierung",
+      "lead": "2D-Pläne, 3D-Visualisierungen und klare Dokumentation.",
+      "summary": "Konzept, Pläne und minimalistische Visualisierungen, von der Idee bis zur Dokumentation.",
+      "bullets": [
+        "2D-Pläne, 3D-Visualisierungen",
+        "Optimierung der Raumnutzung",
+        "Technische Dokumentation nach Bedarf"
+      ],
+      "seo": {
+        "title": "Architektur: 2D-Pläne und 3D-Visualisierungen | 2DY",
+        "description": "Architekturkonzept, detaillierte 2D-Pläne, 3D-Visualisierungen und fotorealistische Renderings für Wohn- und Gewerbebauten. Technische Dokumentation von 2DY.",
+        "keywords": "Architektur Kosovo, 2D-Pläne, 3D-Visualisierung, fotorealistische Renderings, Architekturplanung, technische Dokumentation"
+      },
+      "sections": [
+        {
+          "id": "koncept",
+          "number": "01",
+          "image": "arkitekture",
+          "title": "Konzept, 2D- & 3D-Pläne",
+          "kicker": "Analyse, Grundriss, Dokumentation",
+          "paragraphs": [
+            "Wir planen und dokumentieren minimalistische, funktionale Architekturlösungen für Wohn- und Geschäftsobjekte, mit Fokus auf Klarheit, Qualität und präzise Ausführung. Jedes Projekt beginnt mit der Analyse der Bedürfnisse des Kunden, des Standorts und der Maße, um ein klares Konzept zu entwickeln, das Funktion und Ästhetik in Einklang bringt.",
+            "Die 2D-Pläne entstehen mit vollständigen technischen Details, genauen Maßen und Spezifikationen für jedes Element, damit die Ausführung vor Ort direkt und ohne Unklarheiten erfolgt. Jeder Plan wird geprüft und verifiziert, um die Genauigkeit und die Übereinstimmung mit den technischen Standards sicherzustellen.",
+            "Die 3D-Visualisierungen sorgen dafür, dass Kunden die Idee vor Baubeginn sehen und Details und Änderungen besprechen können, wenn nötig. Klare Renderings und illustrierte Details unterstützen fundierte Entscheidungen und verringern Überraschungen während der Ausführung.",
+            "Das Ergebnis ist eine vollständige Dokumentation und ein klares Bild, eine Architekturlösung, die mit Methode entwickelt und für die präzise Ausführung geprüft ist."
+          ],
+          "bullets": [
+            "Detaillierter 2D-Grundriss",
+            "Realistische 3D-Visualisierungen",
+            "Vollständige technische Dokumentation"
+          ]
+        },
+        {
+          "id": "renderime",
+          "number": "02",
+          "image": "renderime",
+          "title": "Visualisierungen & fotorealistische Renderings",
+          "kicker": "Render, Licht, Material",
+          "paragraphs": [
+            "Wir erstellen 3D-Visualisierungen und fotorealistische Renderings, die die architektonische Idee in klare, detaillierte und überzeugende Bilder übersetzen. Jedes Rendering entsteht mit professioneller Beleuchtung, realistischen Texturen und genauen visuellen Details und gibt eine wahrhaftige Perspektive auf das Projekt, bevor es beginnt.",
+            "Renderings dienen der Präsentation gegenüber Kunden, Investoren und zuständigen Behörden und machen die Vision leichter verständlich für fundierte Entscheidungen. Sie eröffnen eine emotionale und realistische Perspektive auf das Projekt, auf Materialien, Licht, Farben und die Komposition des Raums.",
+            "Wo nötig, bieten wir kurze Animationen, die den Weg durch die Räume des Projekts zeigen und Kunden und Beteiligten helfen, den Ablauf und die Nutzung des Raums besser zu erfassen.",
+            "Renderings sind eine Investition in klare Kommunikation vor dem Projekt, sie verringern Unklarheiten, stärken das Vertrauen und stellen sicher, dass alle Beteiligten die Vision verstehen, bevor real investiert wird."
+          ],
+          "bullets": [
+            "Fotorealistische HD-Renderings",
+            "Darstellung von Material und Licht",
+            "Kurze Animationen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mirembajtje",
+      "slug": "instandhaltung",
+      "number": "03",
+      "image": "mirembajtje",
+      "nav": "Instandhaltung",
+      "title": "Instandhaltung",
+      "titleLine1": "Instandhaltung",
+      "titleLine2": "von Objekten",
+      "kicker": "Präventiv, Reparaturen, Service",
+      "lead": "Instandhaltung für Metallelemente und Räume, zum Erhalt von Sicherheit und Funktion.",
+      "summary": "Regelmäßige Kontrollen, Reparaturen und Service, schnell, sauber und verantwortungsvoll.",
+      "bullets": [
+        "Vorbeugende Instandhaltung",
+        "Notfallreparaturen",
+        "Austausch und Einstellungen"
+      ],
+      "seo": {
+        "title": "Instandhaltung und Service für Metallelemente | 2DY",
+        "description": "Inspektionen, vorbeugende Instandhaltung, Notfallreparaturen und Korrosionsschutz für Metallelemente in Wohnhäusern, Betrieben und Industrieanlagen im Kosovo.",
+        "keywords": "Instandhaltung Metall, Notfallreparatur, Wartung, Korrosionsschutz, Inspektion, Kosovo"
+      },
+      "sections": [
+        {
+          "id": "servisim",
+          "number": "01",
+          "image": "mirembajtje",
+          "title": "Service & Reparaturen",
+          "kicker": "Inspektion, Reparatur, Bericht",
+          "paragraphs": [
+            "Wir bieten detaillierte Inspektionen und schnelle Diagnosen, um Probleme zu erkennen, bevor sie kritisch werden. Wir führen präventive Eingriffe, den Austausch von Teilen und Reparaturen vor Ort mit professionellem Schweißen und mechanischen Einstellungen durch, ebenso Schutzbehandlungen gegen Korrosion, die die Lebensdauer der Elemente verlängern.",
+            "Für Kunden bieten wir Instandhaltungspläne mit regelmäßigen Kontrollen, Dokumentation und transparenter Berichterstattung über die Arbeiten. Bei dringenden Eingriffen reagieren wir mit einem Team, das für Montage und Wiederherstellung der Funktion vor Ort ausgerüstet ist, und sichern Prüfung und Verifizierung nach der Reparatur.",
+            "Unsere Priorität sind Sicherheit, Funktionalität und dauerhafte Lösungen, abgestimmt auf Wohnhäuser, Betriebe und Industrieanlagen."
+          ],
+          "bullets": [
+            "Inspektion und Diagnose",
+            "Reparatur oder Austausch",
+            "Mechanische Einstellungen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projekte",
+      "slug": "projektmanagement",
+      "number": "04",
+      "image": "projekte",
+      "nav": "Projekte",
+      "title": "Projektmanagement",
+      "titleLine1": "Management",
+      "titleLine2": "von Projekten",
+      "kicker": "Planung, Koordination, Kontrolle",
+      "lead": "Koordination und Kontrolle von Projekten, von der Planung bis zur finalen Übergabe.",
+      "summary": "Planung, Koordination und Kontrolle von Terminen und Budget für kleine und mittlere Projekte.",
+      "bullets": [
+        "Arbeitsplan und Termine",
+        "Koordination von Nachunternehmern",
+        "Fortschrittsberichte"
+      ],
+      "seo": {
+        "title": "Projektmanagement Bau: Planung und Koordination | 2DY",
+        "description": "Management kleiner und mittlerer Bauprojekte: detaillierter Arbeitsplan, Koordination von Teams und Nachunternehmern, Budgetkontrolle und transparente Berichte.",
+        "keywords": "Projektmanagement Bau, Bauüberwachung, Koordination Nachunternehmer, Budgetkontrolle, Bauleitung, Bauen Kosovo"
+      },
+      "sections": [
+        {
+          "id": "planifikim",
+          "number": "01",
+          "image": "projekte",
+          "title": "Planung & Koordination",
+          "kicker": "Termine, Budget, Qualität",
+          "paragraphs": [
+            "Wir managen kleine und mittlere Projekte mit klarer Planung, effizienter Koordination und vollständiger Kontrolle in jeder Phase. Jedes Projekt beginnt mit einem detaillierten Arbeitsplan, in dem Aktivitäten, Termine, Ressourcen und die kalkulierten Kosten festgelegt werden, um eine geordnete und störungsfreie Ausführung zu sichern.",
+            "Wir koordinieren die verschiedenen Teams: Architekten, Ingenieure, Auftragnehmer und Lieferanten: mit transparenter Kommunikation und Einhaltung der Termine in jeder Etappe. Den Arbeitsfortschritt überwachen wir durch regelmäßige Kontrollen, Fortschrittsberichte und die schnelle Lösung jedes auftretenden Problems.",
+            "Das Projektbudget führen wir sorgfältig, verfolgen die tatsächlichen Kosten gegenüber der Kalkulation und informieren die Kunden transparent über jede Änderung oder Zusatzkosten. Die Qualitätssicherung hat Priorität, wir prüfen jede Arbeit nach den vereinbarten Standards und den technischen Spezifikationen.",
+            "Das Ergebnis sind Projekte, die termingerecht, im Budget und in der erwarteten Qualität übergeben werden, ein ruhiger Ablauf für den Kunden, von der Planung bis zur finalen Übergabe."
+          ],
+          "bullets": [
+            "Detaillierter Arbeitsplan",
+            "Koordination von Teams und Auftragnehmern",
+            "Berichte und Qualitätskontrolle"
+          ]
+        }
+      ]
+    }
+  ],
+  "about": {
+    "slug": "ueber-uns",
+    "titleLine1": "Über",
+    "titleLine2": "uns",
+    "kicker": "Familie, Tradition, Methode",
+    "lead": "Ein Familienbetrieb mit langjähriger Erfahrung in der Metallverarbeitung.",
+    "seo": {
+      "title": "Über uns: Familienbetrieb für Metallverarbeitung | 2DY",
+      "description": "2DY ist ein Familienbetrieb mit langjähriger Erfahrung in der Metallverarbeitung, 2020 offiziell gegründet als Fortführung der 2DY sh.p.k. Team und Mission.",
+      "keywords": "2DY, Familienbetrieb, Metallverarbeitung, Kosovo, Fadil Rexhaj, Bauüberwachung"
+    },
+    "story": {
+      "eyebrow": "Das Unternehmen",
+      "title": "Was ist 2DY?",
+      "paragraphs": [
+        "2DY ist ein Unternehmen mit starker familiärer Basis und langjähriger Erfahrung im Bereich der Metallverarbeitung. Offiziell im Jahr 2020 gegründet, steht 2DY für die Fortführung des Unternehmens 2DY sh.p.k. und übernimmt das Engagement, die Professionalität und die Tradition, die die vorherige Generation über Jahre aufgebaut hat.",
+        "Im Lauf der Jahre hat sich 2DY zu einem multidisziplinären Unternehmen entwickelt und seine Tätigkeitsfelder erweitert."
+      ],
+      "expansionIntro": "Die erweiterten Tätigkeitsfelder:",
+      "expansion": [
+        "Architektonische und ingenieurtechnische Planung",
+        "Entwicklung von Bauprojekten",
+        "Professionelle technische Beratung",
+        "Überwachung von Bauarbeiten",
+        "Sanierung von Geschäftsobjekten und Familienbetrieben"
+      ],
+      "closing": "Unser Ziel ist es, dauerhafte, funktionale und zeitgemäße Lösungen zu bieten, indem wir die traditionelle Erfahrung in der Metallverarbeitung mit einem modernen Ansatz in Architektur und Ingenieurwesen verbinden."
+    },
+    "mission": {
+      "eyebrow": "Mission",
+      "title": "Unsere Mission",
+      "body": "Die Mission des Unternehmens 2DY ist es, professionelle, dauerhafte und individuelle Lösungen in den Bereichen Planung, Metallverarbeitung, Bauüberwachung und Sanierung zu bieten. Durch das Engagement für Qualität, Effizienz und Innovation wollen wir funktionale und ästhetische Räume schaffen, die den Bedürfnissen unserer Kunden dienen, im privaten wie im gewerblichen Sektor. 2DY versteht sich als verlässlicher Partner, der in jedes Projekt Wert und Vertrauen einbringt, gestützt auf langjährige Erfahrung."
+    },
+    "team": {
+      "eyebrow": "Team",
+      "title": "Die Menschen",
+      "members": [
+        {
+          "name": "Fadil Rexhaj",
+          "role": "Inhaber & CEO",
+          "email": "fadilrexhaj.b.i@gmail.com"
+        },
+        {
+          "name": "Ylli Rexhaj",
+          "role": "Mechatronikingenieur",
+          "email": "yllirexhajj@gmail.com"
+        },
+        {
+          "name": "Kujtim Paçarizi",
+          "role": "Architekt",
+          "email": "aekgroup.ks@gmail.com"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "slug": "kontakt",
+    "titleLine1": "Beginnen",
+    "titleLine2": "wir",
+    "kicker": "Angebot, Aufmaß, Beratung",
+    "lead": "Senden Sie uns eine kurze Beschreibung: was Sie brauchen, Maße oder Fotos, den Standort und den Termin.",
+    "seo": {
+      "title": "Kontakt: Angebot oder Aufmaß vor Ort anfragen | 2DY",
+      "description": "Kontaktieren Sie 2DY für ein Angebot, ein Aufmaß vor Ort oder eine technische Beratung. Telefon +383 48 140 354, E-Mail fadilrexhaj.b.i@gmail.com.",
+      "keywords": "Kontakt 2DY, Angebot anfordern, Aufmaß vor Ort, Metallbau Kosovo"
+    },
+    "personLabel": "Ansprechpartner",
+    "person": "Fadil Rexhaj",
+    "role": "Inhaber & CEO",
+    "email": "fadilrexhaj.b.i@gmail.com",
+    "phone": "+383 48 140 354",
+    "phoneRaw": "+38348140354",
+    "hoursLabel": "Öffnungszeiten",
+    "hours": "Montag – Samstag, 08:00 – 18:00",
+    "areaLabel": "Einsatzgebiet",
+    "area": "Kosovo und die Region",
+    "socialLabel": "Soziale Netzwerke",
+    "form": {
+      "title": "Beschreiben Sie Ihr Projekt",
+      "name": "Ihr Name",
+      "namePlaceholder": "Vor- und Nachname",
+      "email": "E-Mail",
+      "emailPlaceholder": "email@beispiel.de",
+      "phone": "Telefon",
+      "phonePlaceholder": "+383 4X XXX XXX",
+      "service": "Leistung",
+      "servicePlaceholder": "Leistung auswählen",
+      "location": "Standort",
+      "locationPlaceholder": "Stadt oder Ort",
+      "message": "Beschreibung",
+      "messagePlaceholder": "Was Sie brauchen, Maße, Termin…",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet…",
+      "success": "Wir haben einen Entwurf in Ihrem E-Mail-Programm vorbereitet: bitte senden Sie ihn dort ab.",
+      "error": "Ihr E-Mail-Programm konnte nicht geöffnet werden. Schreiben Sie uns direkt an fadilrexhaj.b.i@gmail.com.",
+      "required": "Erforderlich",
+      "note": "Mit dem Absenden dieses Formulars stimmen Sie zu, dass wir Sie zu Ihrer Anfrage kontaktieren."
+    }
+  },
+  "footer": {
+    "tagline": "Metallbau, Architektur, Instandhaltung, Projektmanagement",
+    "servicesLabel": "Leistungen",
+    "companyLabel": "Unternehmen",
+    "contactLabel": "Kontakt",
+    "languageLabel": "Sprache",
+    "rights": "Alle Rechte vorbehalten.",
+    "backToTop": "Nach oben"
+  },
+  "notFound": {
+    "slug": "404",
+    "code": "404",
+    "title": "Seite nicht gefunden",
+    "body": "Der Link, dem Sie gefolgt sind, existiert nicht oder wurde verschoben.",
+    "action": "Zurück zur Startseite",
+    "seo": {
+      "title": "Seite nicht gefunden | 2DY",
+      "description": "Die gesuchte Seite existiert nicht."
+    }
+  }
+}

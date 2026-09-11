@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "code": "sq",
+    "htmlLang": "sq",
+    "name": "Shqip",
+    "nameEn": "Albanian",
+    "dir": "ltr",
+    "isDefault": true,
+    "ogLocale": "sq_AL",
+    "fontSubsets": [
+      "geist-latin",
+      "geist-latin-ext"
+    ]
+  },
+  "brand": {
+    "name": "2DY",
+    "legal": "2DY sh.p.k.",
+    "tagline": "Hekur, Arkitekturë, Mirëmbajtje, Menaxhim projektesh",
+    "since": "2020",
+    "madeBy": "punuar nga"
+  },
+  "nav": {
+    "home": "Ballina",
+    "hekur": "Hekur",
+    "arkitekture": "Arkitekturë",
+    "mirembajtje": "Mirëmbajtje",
+    "projekte": "Projekte",
+    "about": "Rreth nesh",
+    "contact": "Kontakt",
+    "menu": "Menu",
+    "close": "Mbyll",
+    "language": "Gjuha",
+    "backHome": "Kthehu në ballinë",
+    "skipToContent": "Kalo te përmbajtja",
+    "primary": "Navigimi kryesor",
+    "breadcrumb": "Shtegu",
+    "openMenu": "Hap menynë"
+  },
+  "ui": {
+    "index": "Indeks",
+    "scroll": "Lëviz poshtë",
+    "explore": "Shiko",
+    "details": "Detaje",
+    "viewAll": "Shiko të gjitha",
+    "requestQuote": "Kërko ofertë",
+    "startProject": "Nis një projekt",
+    "contactUs": "Na kontakto",
+    "bookVisit": "Cakto matje në teren",
+    "next": "Vijuese",
+    "prev": "E mëparshme",
+    "email": "Email",
+    "phone": "Telefon",
+    "loading": "Duke u ngarkuar",
+    "services": "Shërbimet",
+    "capability": "Fusha",
+    "sectionOf": "nga"
+  },
+  "home": {
+    "seo": {
+      "title": "Punime me hekur dhe arkitekturë në Kosovë | 2DY",
+      "description": "2DY projekton dhe realizon konstruksione metalike, rrethoja, dyer metalike dhe plane arkitekturale në Kosovë. Ekzekutim i saktë, finish i pastër.",
+      "keywords": "punime me hekur Kosovë, konstruksione metalike, rrethoje metalike, dyer metalike, arkitekturë Kosovë, menaxhim projektesh, saldim profesional, 2DY"
+    },
+    "hero": {
+      "kicker": "Prodhim, Projektim, Montim",
+      "titleLine1": "Metali",
+      "titleLine2": "i menduar",
+      "titleAccent": "mirë",
+      "lead": "2DY punon me hekur, arkitekturë, mirëmbajtje dhe menaxhim projektesh, me estetikë të pastër dhe ekzekutim të saktë.",
+      "ctaPrimary": "Nis një projekt",
+      "ctaSecondary": "Shiko shërbimet"
+    },
+    "manifesto": {
+      "eyebrow": "Kompania",
+      "statement": "Një kompani familjare e përpunimit të metaleve, e zgjeruar në projektim, mbikëqyrje dhe renovim. Çdo strukturë që dorëzojmë është ndërtuar për përdorim real.",
+      "columns": [
+        {
+          "title": "Minimal",
+          "body": "Dizajn i mprehtë, me fokus të plotë në cilësinë e ekzekutimit dhe në pastërtinë e detajit."
+        },
+        {
+          "title": "Profesional",
+          "body": "Dokumentim i qartë dhe punë e kontrolluar në çdo fazë, nga matja e parë deri te montimi."
+        },
+        {
+          "title": "Koordinim",
+          "body": "Afate të përcaktuara dhe komunikim transparent gjatë gjithë kohëzgjatjes së projektit."
+        }
+      ]
+    },
+    "servicesIntro": {
+      "eyebrow": "Shërbimet",
+      "title": "Katër fusha, një standard",
+      "body": "Punojmë në katër fusha të lidhura ngushtë me njëra-tjetrën. Kjo do të thotë se një projekt mund të kalojë nga koncepti te prodhimi dhe te mirëmbajtja pa ndryshuar partner."
+    },
+    "materials": {
+      "eyebrow": "Materiale & finish",
+      "title": "Çfarë përdorim",
+      "body": "Përzgjedhja e materialit dhe e trajtimit mbrojtës përcakton jetëgjatësinë e strukturës. Këto janë finishet me të cilat punojmë më shpesh.",
+      "items": [
+        {
+          "name": "Hekur i zi",
+          "spec": "Profile të nxehta",
+          "body": "Profile dhe trarë të nxehtë, të përpunuar dhe të salduar sipas ngarkesës së projektit."
+        },
+        {
+          "name": "Zink i nxehtë",
+          "spec": "Galvanizim",
+          "body": "Mbrojtje maksimale ndaj korrozionit për struktura të ekspozuara ndaj kushteve atmosferike."
+        },
+        {
+          "name": "Bojë pluhur",
+          "spec": "Powder coat",
+          "body": "Finish mat ose gjysmë-mat, i qëndrueshëm ndaj gërvishtjeve dhe rrezatimit diellor."
+        },
+        {
+          "name": "Inox",
+          "spec": "Çelik i pandryshkshëm",
+          "body": "Për elemente ku kërkohet rezistencë e lartë dhe pamje e pastër afatgjatë."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Procesi",
+      "title": "Si punojmë",
+      "body": "Një rrjedhë pune e njëjtë për çdo projekt, pavarësisht përmasës.",
+      "steps": [
+        {
+          "title": "Matje në teren",
+          "body": "Vizitë në lokacion, matje të sakta dhe fotodokumentim i gjendjes ekzistuese."
+        },
+        {
+          "title": "Koncept & ofertë",
+          "body": "Zgjidhja teknike, materialet, afati dhe kostoja: të gjitha me shkrim, para se të fillojë puna."
+        },
+        {
+          "title": "Prodhim",
+          "body": "Prerje, saldim dhe trajtim mbrojtës në punëtori, me kontroll cilësie në çdo hap."
+        },
+        {
+          "title": "Montim & dorëzim",
+          "body": "Montim i sigurt në teren, nivelim korrekt dhe verifikim i funksionimit para dorëzimit."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Kontakt",
+      "title": "Le ta nisim.",
+      "body": "Na dërgo një përshkrim të shkurtër: çfarë kërkon, dimensionet ose foto, lokacionin dhe afatin.",
+      "action": "Na shkruaj"
+    },
+    "forge": {
+      "eyebrow": "Struktura",
+      "title": "Ndërtuar për të mbajtur peshë",
+      "body": "Çdo konstruksion fillon si një rrjetë profilesh të llogaritura për ngarkesën, ambientin dhe përdorimin real.",
+      "hintHover": "Lëviz kursorin për të ndryshuar dritën",
+      "hintTouch": "Lëviz poshtë për të kaluar nëpër strukturë"
+    }
+  },
+  "services": [
+    {
+      "id": "hekur",
+      "slug": "punime-me-hekur",
+      "number": "01",
+      "image": "hekur",
+      "nav": "Hekur",
+      "title": "Punime me hekur",
+      "titleLine1": "Punime",
+      "titleLine2": "me hekur",
+      "kicker": "Prodhim, Montim, Riparim",
+      "lead": "Zgjidhje metalike me finish të pastër, nga koncepti deri te montimi.",
+      "summary": "Projektim, prodhim dhe montim konstruktesh metalike me fokus në siguri dhe finish të pastër.",
+      "bullets": [
+        "Konstruksione metalike, shkallë, gardhe",
+        "Përforcime, saldim profesional",
+        "Matje në teren dhe montim"
+      ],
+      "seo": {
+        "title": "Punime me hekur: konstruksione, rrethoja dhe dyer metalike | 2DY",
+        "description": "Konstruksione metalike, rrethoja dhe dyer metalike nga 2DY. Saldim profesional, trajtim antikorroziv dhe montim i kontrolluar në teren.",
+        "keywords": "konstruksione metalike Kosovë, rrethoje metalike, dyer metalike, saldim profesional, shkallë metalike, gardhe metalike"
+      },
+      "sections": [
+        {
+          "id": "konstruksione",
+          "number": "01",
+          "image": "konstruksione",
+          "title": "Konstruksione metalike",
+          "kicker": "Profile, Trarë, Saldim",
+          "paragraphs": [
+            "Ne realizojmë konstruksione metalike të ndërtuara mbi parime të qarta teknike, siguri strukturore dhe punë të kontrolluar në çdo fazë. Procesi ynë fillon me analizën e projektit dhe të nevojave reale të klientit, duke vazhduar me përzgjedhjen e profileve dhe trarëve të përshtatshëm për ngarkesën, përdorimin dhe ambientin ku do të instalohet struktura.",
+            "Punimet e saldimit kryhen me precizion dhe kontroll të vazhdueshëm, duke respektuar standardet teknike dhe duke siguruar lidhje të forta e të qëndrueshme. Pas saldimit, konstruksionet trajtohen për mbrojtje afatgjatë ndaj korrozionit dhe konsumimit, në mënyrë që struktura të ruajë integritetin dhe funksionalitetin e saj me kalimin e kohës.",
+            "Montimi në teren realizohet nga ekip i specializuar, me planifikim të saktë dhe respektim të plotë të kushteve të sigurisë. Ne i kushtojmë rëndësi jo vetëm forcës së strukturës, por edhe pastërtisë së punës, nivelimit korrekt dhe përfundimit estetik, në mënyrë që rezultati final të jetë teknikisht i sigurt dhe vizualisht i rregullt.",
+            "Çdo konstruksion që dorëzojmë është një zgjidhje e ndërtuar për përdorim real, me fokus në jetëgjatësi, stabilitet dhe funksionim të besueshëm në kushte të ndryshme."
+          ],
+          "bullets": [
+            "Profile dhe trarë metalikë",
+            "Saldim profesional",
+            "Montim i sigurt dhe i kontrolluar"
+          ]
+        },
+        {
+          "id": "rrethoje",
+          "number": "02",
+          "image": "rrethoje",
+          "title": "Rrethoja metalike",
+          "kicker": "Oborre, Industri, Biznes",
+          "paragraphs": [
+            "Ne projektojmë dhe realizojmë rrethoja metalike funksionale dhe të qëndrueshme, të përshtatura për oborre private, hapësira industriale dhe ambiente komerciale. Çdo rrethojë ndërtohet duke marrë parasysh sigurinë, rezistencën ndaj kushteve atmosferike dhe përdorimin e përditshëm, pa kompromis në cilësinë e punës.",
+            "Përdorim profile dhe elemente metalike të përzgjedhura sipas nevojës së projektit, me saldim të pastër dhe trajtim mbrojtës për jetëgjatësi dhe mirëmbajtje minimale. Dizajni dhe struktura përshtaten sipas terrenit dhe kërkesave të klientit, duke siguruar stabilitet dhe funksionim të besueshëm në kohë.",
+            "Montimi në teren realizohet me saktësi dhe planifikim të qartë, duke garantuar vendosje të drejtë, fiksim të fortë dhe përfundim estetik korrekt. Rezultati është një rrethojë e ndërtuar për përdorim afatgjatë, që ofron siguri, rregull dhe një pamje të pastër vizuale."
+          ],
+          "bullets": [
+            "Profile dhe panele metalike",
+            "Trajtim mbrojtës antikorroziv",
+            "Përshtatje sipas terrenit"
+          ]
+        },
+        {
+          "id": "dyer",
+          "number": "03",
+          "image": "dyer",
+          "title": "Dyer metalike",
+          "kicker": "Siguri, Përmasa sipas porosisë",
+          "paragraphs": [
+            "Ne projektojmë dhe realizojmë dyer metalike të forta, funksionale dhe të ndërtuara për përdorim të përditshëm. Çdo derë realizohet sipas përmasave dhe kërkesave konkrete të projektit, duke kombinuar sigurinë strukturore me një përfundim të pastër dhe korrekt.",
+            "Punojmë me profile metalike cilësore, të salduara me precizion dhe të trajtuara për rezistencë afatgjatë ndaj konsumimit dhe kushteve atmosferike. Dizajni përshtatet sipas ambientit, qoftë për oborre private, hyrje industriale apo hapësira komerciale, duke garantuar funksionim të qetë dhe jetëgjatësi.",
+            "Montimi në teren kryhet me saktësi dhe kontroll të plotë, duke siguruar vendosje të drejtë, mbyllje të sigurt dhe përdorim të besueshëm në kohë. Rezultati është një derë metalike e ndërtuar për siguri reale dhe përdorim praktik, pa kompromise në cilësi."
+          ],
+          "bullets": [
+            "Materiale metalike cilësore",
+            "Saldim me precizion",
+            "Montim dhe rregullim në teren"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arkitekture",
+      "slug": "arkitekture",
+      "number": "02",
+      "image": "arkitekture",
+      "nav": "Arkitekturë",
+      "title": "Arkitekturë & koncept",
+      "titleLine1": "Arkitekturë",
+      "titleLine2": "minimale",
+      "kicker": "Koncept, Plane, Vizualizim",
+      "lead": "Plane 2D, vizualizime 3D dhe dokumentim i qartë.",
+      "summary": "Konceptim, plane dhe vizualizime minimaliste, nga ideja te dokumentimi.",
+      "bullets": [
+        "Plane 2D, vizualizime 3D",
+        "Optimizim i hapësirës",
+        "Dokumentim teknik sipas nevojës"
+      ],
+      "seo": {
+        "title": "Shërbime arkitekturale: plane 2D dhe vizualizime 3D | 2DY",
+        "description": "Koncept arkitektonik, plane 2D të detajuara, vizualizime 3D dhe renderime fotorealiste për objekte banimi dhe biznesi. Dokumentim teknik i plotë nga 2DY.",
+        "keywords": "arkitekturë Kosovë, plane 2D, vizualizime 3D, renderime fotorealiste, projektim arkitektonik, dokumentim teknik"
+      },
+      "sections": [
+        {
+          "id": "koncept",
+          "number": "01",
+          "image": "arkitekture",
+          "title": "Koncept, plane 2D & 3D",
+          "kicker": "Analizë, Planimetri, Dokumentim",
+          "paragraphs": [
+            "Ne projektojmë dhe dokumentojmë zgjidhje arkitekturale minimaliste dhe funksionale për objekte banimi dhe biznesi, me fokus në qartësi, cilësi dhe ekzekutim të saktë. Çdo projekt fillon me analizën e nevojave të klientit, të lokacionit dhe të përmasave, për të zhvilluar një koncept të pastër që harmonizon funksionalitetin me estetikën.",
+            "Planet 2D përgatiten me detaje teknike të plota, masa të sakta dhe specifikacione për secilin element, në mënyrë që ekzekutimi në teren të jetë i drejtpërdrejtë dhe pa paqartësi. Çdo plan kontrollohet dhe verifikohet për të siguruar saktësinë dhe përputhjen me standardet teknike.",
+            "Vizualizimet 3D sigurojnë që klientët ta shohin idenë para fillimit të ndërtimit, duke lejuar diskutimin e detajeve dhe ndryshimeve nëse nevojiten. Renderimet e qarta dhe detajet e ilustruara ndihmojnë në vendimmarrje më të informuar dhe zvogëlojnë surprizat gjatë ekzekutimit.",
+            "Rezultati është dokumentim i plotë dhe vizual i qartë, një zgjidhje arkitekturale e ndërtuar me metodë dhe e provuar për ekzekutim të saktë."
+          ],
+          "bullets": [
+            "Planimetri 2D e detajuar",
+            "Vizualizime 3D realiste",
+            "Dokumentim teknik i plotë"
+          ]
+        },
+        {
+          "id": "renderime",
+          "number": "02",
+          "image": "renderime",
+          "title": "Vizualizime & renderime fotorealiste",
+          "kicker": "Render, Dritë, Material",
+          "paragraphs": [
+            "Ne krijojmë vizualizime 3D dhe renderime fotorealiste që e marrin idenë arkitekturale dhe e transformojnë atë në imazhe të qarta, të detajuara dhe bindëse. Çdo render përgatitet me ndriçim profesional, tekstura realiste dhe detaje vizuale të sakta, duke dhënë një perspektivë të vërtetë të projektit para fillimit.",
+            "Renderimet përdoren për prezantime ndaj klientëve, investitorëve dhe autoriteteve përkatëse, duke e bërë më të lehtë të kuptuarit e vizionit dhe marrjen e vendimeve të informuara. Ato ofrojnë një perspektivë emocionale dhe realiste të projektit, të materialeve, dritës, ngjyrave dhe kompozimit të hapësirës.",
+            "Në raste të nevojshme ofrojmë animacione të shkurtra që tregojnë kalimin nëpër hapësirat e projektit, duke ndihmuar klientët dhe palët e përfshira ta perceptojnë më mirë rrjedhën dhe përdorimin e hapësirës.",
+            "Renderimet janë investim në komunikim të qartë para projektit, ato zvogëlojnë paqartësitë, rrisin besimin dhe sigurojnë që të gjitha palët ta kuptojnë vizionin përpara se të bëhet investimi real."
+          ],
+          "bullets": [
+            "Renderime fotorealiste HD",
+            "Ilustrime materialesh dhe drite",
+            "Animacione të shkurtra"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mirembajtje",
+      "slug": "mirembajtje",
+      "number": "03",
+      "image": "mirembajtje",
+      "nav": "Mirëmbajtje",
+      "title": "Mirëmbajtje",
+      "titleLine1": "Mirëmbajtje",
+      "titleLine2": "e objekteve",
+      "kicker": "Preventive, Riparime, Servisim",
+      "lead": "Mirëmbajtje për elemente metalike dhe hapësira, për të ruajtur sigurinë dhe funksionin.",
+      "summary": "Kontrolle periodike, riparime dhe servisim, shpejt, pastër dhe me përgjegjësi.",
+      "bullets": [
+        "Mirëmbajtje preventive",
+        "Riparime urgjente",
+        "Zëvendësime dhe rregullime"
+      ],
+      "seo": {
+        "title": "Mirëmbajtje dhe servisim i elementeve metalike | 2DY",
+        "description": "Inspektime, mirëmbajtje preventive, riparime urgjente dhe trajtime antikorrozive për elemente metalike në banesa, biznese dhe ambiente industriale.",
+        "keywords": "mirëmbajtje metalike, riparime urgjente, servisim, trajtim antikorroziv, inspektim, Kosovë"
+      },
+      "sections": [
+        {
+          "id": "servisim",
+          "number": "01",
+          "image": "mirembajtje",
+          "title": "Servisim & riparime",
+          "kicker": "Inspektim, Riparim, Raportim",
+          "paragraphs": [
+            "Ofrojmë inspektime të detajuara dhe diagnoza të shpejta për të identifikuar problemet para se të bëhen kritike. Kryejmë ndërhyrje preventive, zëvendësim pjesësh dhe riparime në vend me saldim profesional dhe rregullime mekanike, si dhe trajtime mbrojtëse kundër korrozionit për të zgjatur jetën e elementeve.",
+            "Për klientët ofrojmë plane mirëmbajtjeje me kontrolle periodike, dokumentim dhe raportim transparent të punimeve. Reagojmë për ndërhyrje urgjente me ekip të pajisur për montim dhe rikthim funksional në vend, dhe sigurojmë testim e verifikim pas riparimit.",
+            "Prioriteti ynë është siguria, funksionaliteti dhe zgjidhjet e qëndrueshme, të përshtatura për banesa, biznese dhe ambiente industriale."
+          ],
+          "bullets": [
+            "Inspektim dhe diagnozë",
+            "Riparim ose zëvendësim",
+            "Rregullime mekanike"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projekte",
+      "slug": "menaxhim-projektesh",
+      "number": "04",
+      "image": "projekte",
+      "nav": "Projekte",
+      "title": "Menaxhim projektesh",
+      "titleLine1": "Menaxhim",
+      "titleLine2": "projektesh",
+      "kicker": "Planifikim, Koordinim, Kontroll",
+      "lead": "Koordinim dhe kontroll i projekteve, nga planifikimi te dorëzimi final.",
+      "summary": "Planifikim, koordinim dhe kontroll i afateve dhe buxhetit për projekte të vogla dhe të mesme.",
+      "bullets": [
+        "Plan pune dhe afate",
+        "Koordinim nënkontraktorësh",
+        "Raportim progresi"
+      ],
+      "seo": {
+        "title": "Menaxhim projektesh ndërtimore: planifikim dhe koordinim | 2DY",
+        "description": "Menaxhim i projekteve të vogla dhe të mesme: plan pune i detajuar, koordinim ekipesh dhe nënkontraktorësh, kontroll buxheti dhe raportim transparent i progresit.",
+        "keywords": "menaxhim projektesh, mbikëqyrje punimesh, koordinim kontraktorësh, kontroll buxheti, ndërtim Kosovë"
+      },
+      "sections": [
+        {
+          "id": "planifikim",
+          "number": "01",
+          "image": "projekte",
+          "title": "Planifikim & koordinim",
+          "kicker": "Afate, Buxhet, Cilësi",
+          "paragraphs": [
+            "Ne menaxhojmë projekte të vogla dhe të mesme duke siguruar planifikim të qartë, koordinim efikas dhe kontroll të plotë në çdo fazë. Çdo projekt fillon me një plan pune të detajuar, ku përcaktohen aktivitetet, afatet, burimet dhe kostot e parashikuara për të siguruar ekzekutim të organizuar dhe pa pengesa.",
+            "Koordinojmë ekipet e ndryshme: arkitektë, inxhinierë, kontraktorë dhe furnizues: duke siguruar komunikim transparent dhe respektim të afateve në çdo etapë. Monitorojmë përparimin e punës përmes inspektimeve të rregullta, raportimit të progresit dhe zgjidhjes së shpejtë të çdo problemi që lind.",
+            "Menaxhojmë buxhetin e projektit me kujdes, duke ndjekur kostot aktuale ndaj vlerësimit të planifikuar, dhe informojmë klientët me transparencë për çdo ndryshim ose kosto shtesë. Sigurimi i cilësisë është prioritet, kontrollojmë çdo punë sipas standardeve të miratuara dhe specifikacioneve teknike.",
+            "Rezultati është projekte të dorëzuara në kohë, brenda buxhetit dhe me cilësinë e pritur, një përvojë e qetë për klientin, nga faza e planifikimit deri te dorëzimi final."
+          ],
+          "bullets": [
+            "Plan pune i detajuar",
+            "Koordinim ekipesh dhe kontraktorësh",
+            "Raportim dhe kontroll cilësie"
+          ]
+        }
+      ]
+    }
+  ],
+  "about": {
+    "slug": "rreth-nesh",
+    "titleLine1": "Rreth",
+    "titleLine2": "nesh",
+    "kicker": "Familje, Traditë, Metodë",
+    "lead": "Një kompani familjare me përvojë shumëvjeçare në përpunimin e metaleve.",
+    "seo": {
+      "title": "Rreth nesh: kompani familjare e përpunimit të metaleve | 2DY",
+      "description": "2DY është kompani familjare me përvojë shumëvjeçare në përpunimin e metaleve, e themeluar zyrtarisht në vitin 2020. Njihu me ekipin dhe misionin tonë.",
+      "keywords": "2DY, kompani familjare, përpunim metalesh, Kosovë, Fadil Rexhaj, mbikëqyrje punimesh"
+    },
+    "story": {
+      "eyebrow": "Kompania",
+      "title": "Çka është 2DY?",
+      "paragraphs": [
+        "2DY është një kompani me bazë të fortë familjare dhe me përvojë shumëvjeçare në fushën e përpunimit të metaleve. E themeluar zyrtarisht në vitin 2020, 2DY përfaqëson vazhdimësinë e kompanisë 2DY sh.p.k., duke trashëguar përkushtimin, profesionalizmin dhe traditën e ndërtuar ndër vite nga brezi paraprak.",
+        "Me kalimin e viteve, 2DY është zhvilluar në një kompani multidisiplinare, duke zgjeruar fushat e saj të veprimtarisë."
+      ],
+      "expansionIntro": "Fushat e zgjeruara të veprimtarisë:",
+      "expansion": [
+        "Projektim arkitektonik dhe inxhinierik",
+        "Zhvillim të projekteve të ndërtimit",
+        "Këshillim teknik profesional",
+        "Mbikëqyrje të punimeve ndërtimore",
+        "Renovim të objekteve afariste dhe ekonomive familjare"
+      ],
+      "closing": "Synimi ynë është të ofrojmë zgjidhje të qëndrueshme, funksionale dhe bashkëkohore, duke kombinuar përvojën tradicionale në përpunimin e metaleve me qasjen moderne në arkitekturë dhe inxhinieri."
+    },
+    "mission": {
+      "eyebrow": "Misioni",
+      "title": "Misioni ynë",
+      "body": "Misioni i kompanisë 2DY është të ofrojë zgjidhje profesionale, të qëndrueshme dhe të personalizuara në fushën e projektimit, përpunimit të metaleve, mbikëqyrjes dhe renovimeve. Përmes përkushtimit ndaj cilësisë, efikasitetit dhe inovacionit, ne synojmë të ndërtojmë ambiente funksionale dhe estetike që u shërbejnë nevojave të klientëve tanë, si në sektorin privat, ashtu edhe në atë afarist. 2DY angazhohet të jetë një partner i besueshëm që sjell vlerë dhe besim në çdo projekt që ndërmerr, duke u mbështetur në përvojën shumëvjeçare."
+    },
+    "team": {
+      "eyebrow": "Ekipi",
+      "title": "Njerëzit",
+      "members": [
+        {
+          "name": "Fadil Rexhaj",
+          "role": "Pronar & CEO",
+          "email": "fadilrexhaj.b.i@gmail.com"
+        },
+        {
+          "name": "Ylli Rexhaj",
+          "role": "Inxhinier i Mekatronikës",
+          "email": "yllirexhajj@gmail.com"
+        },
+        {
+          "name": "Kujtim Paçarizi",
+          "role": "Arkitekt",
+          "email": "aekgroup.ks@gmail.com"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "slug": "kontakt",
+    "titleLine1": "Le ta",
+    "titleLine2": "nisim",
+    "kicker": "Ofertë, Matje, Konsultim",
+    "lead": "Na dërgo një përshkrim të shkurtër: çfarë kërkon, dimensionet ose foto, lokacionin dhe afatin.",
+    "seo": {
+      "title": "Kontakt: kërko ofertë ose cakto matje në teren | 2DY",
+      "description": "Kontakto 2DY për ofertë, matje në teren ose konsultim teknik. Telefon +383 48 140 354, email fadilrexhaj.b.i@gmail.com.",
+      "keywords": "kontakt 2DY, kërko ofertë, matje në teren, punime me hekur Kosovë"
+    },
+    "personLabel": "Personi kontaktues",
+    "person": "Fadil Rexhaj",
+    "role": "Pronar & CEO",
+    "email": "fadilrexhaj.b.i@gmail.com",
+    "phone": "+383 48 140 354",
+    "phoneRaw": "+38348140354",
+    "hoursLabel": "Orari",
+    "hours": "E hënë – e shtunë, 08:00 – 18:00",
+    "areaLabel": "Zona e shërbimit",
+    "area": "Kosovë dhe rajoni",
+    "socialLabel": "Rrjete sociale",
+    "form": {
+      "title": "Përshkruaj projektin",
+      "name": "Emri juaj",
+      "namePlaceholder": "Emri dhe mbiemri",
+      "email": "Email",
+      "emailPlaceholder": "email@shembull.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "+383 4X XXX XXX",
+      "service": "Shërbimi",
+      "servicePlaceholder": "Zgjidh një shërbim",
+      "location": "Lokacioni",
+      "locationPlaceholder": "Qyteti ose fshati",
+      "message": "Përshkrimi",
+      "messagePlaceholder": "Çfarë kërkon, dimensionet, afati…",
+      "submit": "Dërgo kërkesën",
+      "sending": "Duke dërguar…",
+      "success": "Përgatitëm një draft në aplikacionin tuaj të email-it: shtypni «Dërgo» atje për ta përfunduar kërkesën.",
+      "error": "Nuk arritëm ta hapim aplikacionin e email-it. Na shkruani direkt në fadilrexhaj.b.i@gmail.com.",
+      "required": "E domosdoshme",
+      "note": "Duke dërguar këtë formular, pranoni që t'ju kontaktojmë lidhur me kërkesën tuaj."
+    }
+  },
+  "footer": {
+    "tagline": "Hekur, Arkitekturë, Mirëmbajtje, Menaxhim projektesh",
+    "servicesLabel": "Shërbimet",
+    "companyLabel": "Kompania",
+    "contactLabel": "Kontakt",
+    "languageLabel": "Gjuha",
+    "rights": "Të gjitha të drejtat e rezervuara.",
+    "backToTop": "Kthehu lart"
+  },
+  "notFound": {
+    "slug": "404",
+    "code": "404",
+    "title": "Faqja nuk u gjet",
+    "body": "Lidhja që ndoqët nuk ekziston ose është zhvendosur.",
+    "action": "Kthehu në ballinë",
+    "seo": {
+      "title": "Faqja nuk u gjet | 2DY",
+      "description": "Faqja që kërkoni nuk ekziston ose është zhvendosur. Kthehuni në ballinën e 2DY për të gjetur shërbimet tona."
+    }
+  }
+}

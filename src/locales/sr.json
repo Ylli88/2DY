@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "code": "sr",
+    "htmlLang": "sr-Latn",
+    "name": "Srpski",
+    "nameEn": "Serbian",
+    "dir": "ltr",
+    "isDefault": false,
+    "ogLocale": "sr_RS",
+    "fontSubsets": [
+      "geist-latin",
+      "geist-latin-ext"
+    ]
+  },
+  "brand": {
+    "name": "2DY",
+    "legal": "2DY sh.p.k.",
+    "tagline": "Bravarija, Arhitektura, Održavanje, Upravljanje projektima",
+    "since": "2020",
+    "madeBy": "izradio"
+  },
+  "nav": {
+    "home": "Početna",
+    "hekur": "Bravarija",
+    "arkitekture": "Arhitektura",
+    "mirembajtje": "Održavanje",
+    "projekte": "Projekti",
+    "about": "O nama",
+    "contact": "Kontakt",
+    "menu": "Meni",
+    "close": "Zatvori",
+    "language": "Jezik",
+    "backHome": "Nazad na početnu",
+    "skipToContent": "Pređi na sadržaj",
+    "primary": "Glavna navigacija",
+    "breadcrumb": "Putanja",
+    "openMenu": "Otvori meni"
+  },
+  "ui": {
+    "index": "Indeks",
+    "scroll": "Pomeri dole",
+    "explore": "Pogledaj",
+    "details": "Detalji",
+    "viewAll": "Pogledaj sve",
+    "requestQuote": "Zatraži ponudu",
+    "startProject": "Pokreni projekat",
+    "contactUs": "Kontaktiraj nas",
+    "bookVisit": "Zakaži merenje na terenu",
+    "next": "Sledeće",
+    "prev": "Prethodno",
+    "email": "Email",
+    "phone": "Telefon",
+    "loading": "Učitavanje",
+    "services": "Usluge",
+    "capability": "Oblast",
+    "sectionOf": "od"
+  },
+  "home": {
+    "seo": {
+      "title": "Bravarski radovi, arhitektura i projekti | Kosovo | 2DY",
+      "description": "2DY projektuje i izvodi metalne konstrukcije, ograde, vrata, arhitektonske planove i vodi projekte na Kosovu. Precizna izrada, čist finiš, jasni rokovi.",
+      "keywords": "bravarski radovi Kosovo, metalne konstrukcije, metalne ograde, metalna vrata, arhitektura Kosovo, upravljanje projektima, profesionalno zavarivanje, 2DY"
+    },
+    "hero": {
+      "kicker": "Izrada, Projektovanje, Montaža",
+      "titleLine1": "Metal",
+      "titleLine2": "promišljen do",
+      "titleAccent": "detalja",
+      "lead": "2DY radi sa metalom, arhitekturom, održavanjem i upravljanjem projektima, sa čistom estetikom i preciznom izvedbom.",
+      "ctaPrimary": "Pokreni projekat",
+      "ctaSecondary": "Pogledaj usluge"
+    },
+    "manifesto": {
+      "eyebrow": "Kompanija",
+      "statement": "Porodična kompanija za obradu metala, proširena na projektovanje, nadzor i renoviranje. Svaka konstrukcija koju predajemo građena je za stvarnu upotrebu.",
+      "columns": [
+        {
+          "title": "Minimalizam",
+          "body": "Oštar dizajn, sa punim fokusom na kvalitet izvedbe i čistoću detalja."
+        },
+        {
+          "title": "Profesionalizam",
+          "body": "Jasna dokumentacija i kontrolisan rad u svakoj fazi, od prvog merenja do montaže."
+        },
+        {
+          "title": "Koordinacija",
+          "body": "Definisani rokovi i transparentna komunikacija tokom celog trajanja projekta."
+        }
+      ]
+    },
+    "servicesIntro": {
+      "eyebrow": "Usluge",
+      "title": "Četiri oblasti, jedan standard",
+      "body": "Radimo u četiri međusobno usko povezane oblasti. To znači da projekat može da pređe put od koncepta do izrade i održavanja bez promene partnera."
+    },
+    "materials": {
+      "eyebrow": "Materijali & finiš",
+      "title": "Šta koristimo",
+      "body": "Izbor materijala i zaštitnog tretmana određuje vek trajanja konstrukcije. Ovo su finiši sa kojima najčešće radimo.",
+      "items": [
+        {
+          "name": "Crni metal",
+          "spec": "Toplo valjani profili",
+          "body": "Toplo valjani profili i nosači, obrađeni i zavareni prema opterećenju projekta."
+        },
+        {
+          "name": "Vruće cinkovanje",
+          "spec": "Galvanizacija",
+          "body": "Maksimalna zaštita od korozije za konstrukcije izložene atmosferskim uslovima."
+        },
+        {
+          "name": "Plastifikacija",
+          "spec": "Powder coat",
+          "body": "Mat ili polumat finiš, otporan na ogrebotine i sunčevo zračenje."
+        },
+        {
+          "name": "Inoks",
+          "spec": "Nerđajući čelik",
+          "body": "Za elemente gde se traži visoka otpornost i dugotrajno čist izgled."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Proces",
+      "title": "Kako radimo",
+      "body": "Isti tok rada za svaki projekat, bez obzira na obim.",
+      "steps": [
+        {
+          "title": "Merenje na terenu",
+          "body": "Poseta lokaciji, precizna merenja i fotodokumentacija postojećeg stanja."
+        },
+        {
+          "title": "Koncept & ponuda",
+          "body": "Tehničko rešenje, materijali, rok i cena: sve u pisanoj formi, pre početka radova."
+        },
+        {
+          "title": "Izrada",
+          "body": "Sečenje, zavarivanje i zaštitni tretman u radionici, uz kontrolu kvaliteta u svakom koraku."
+        },
+        {
+          "title": "Montaža & predaja",
+          "body": "Sigurna montaža na terenu, ispravno nivelisanje i provera funkcionisanja pre predaje."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Kontakt",
+      "title": "Da počnemo.",
+      "body": "Pošaljite nam kratak opis: šta vam treba, dimenzije ili fotografije, lokaciju i rok.",
+      "action": "Pišite nam"
+    },
+    "forge": {
+      "eyebrow": "Struktura",
+      "title": "Građeno da nosi teret",
+      "body": "Svaka konstrukcija počinje kao rešetka profila proračunatih za opterećenje, okruženje i stvarnu upotrebu.",
+      "hintHover": "Pomerite kursor da promenite svetlo",
+      "hintTouch": "Skrolujte kroz strukturu"
+    }
+  },
+  "services": [
+    {
+      "id": "hekur",
+      "slug": "bravarski-radovi",
+      "number": "01",
+      "image": "hekur",
+      "nav": "Bravarija",
+      "title": "Bravarski radovi",
+      "titleLine1": "Bravarski",
+      "titleLine2": "radovi",
+      "kicker": "Izrada, Montaža, Popravke",
+      "lead": "Metalna rešenja sa čistim finišem, od koncepta do montaže.",
+      "summary": "Projektovanje, izrada i montaža metalnih konstrukcija sa fokusom na sigurnost i čist finiš.",
+      "bullets": [
+        "Metalne konstrukcije, stepenice, ograde",
+        "Ojačanja, profesionalno zavarivanje",
+        "Merenje na terenu i montaža"
+      ],
+      "seo": {
+        "title": "Bravarski radovi: konstrukcije, ograde i vrata | 2DY",
+        "description": "Metalne konstrukcije, ograde i vrata koje 2DY projektuje, zavaruje i montira. Profesionalno zavarivanje, antikorozivna zaštita i kontrolisana montaža na terenu.",
+        "keywords": "metalne konstrukcije Kosovo, metalne ograde, metalna vrata, profesionalno zavarivanje, metalne stepenice, bravarija"
+      },
+      "sections": [
+        {
+          "id": "konstruksione",
+          "number": "01",
+          "image": "konstruksione",
+          "title": "Metalne konstrukcije",
+          "kicker": "Profili, Nosači, Zavarivanje",
+          "paragraphs": [
+            "Izrađujemo metalne konstrukcije zasnovane na jasnim tehničkim principima, strukturnoj sigurnosti i kontrolisanom radu u svakoj fazi. Naš proces počinje analizom projekta i stvarnih potreba klijenta, a nastavlja se izborom profila i nosača prilagođenih opterećenju, nameni i okruženju u kojem će konstrukcija biti postavljena.",
+            "Radovi zavarivanja izvode se precizno i uz stalnu kontrolu, uz poštovanje tehničkih standarda i obezbeđivanje čvrstih i trajnih spojeva. Nakon zavarivanja, konstrukcije se tretiraju radi dugotrajne zaštite od korozije i habanja, kako bi struktura zadržala svoj integritet i funkcionalnost tokom vremena.",
+            "Montažu na terenu izvodi specijalizovan tim, uz precizno planiranje i potpuno poštovanje sigurnosnih uslova. Pažnju posvećujemo ne samo čvrstoći konstrukcije, već i urednosti rada, ispravnom nivelisanju i estetskoj završnici, kako bi konačni rezultat bio tehnički siguran i vizuelno besprekoran.",
+            "Svaka konstrukcija koju predajemo jeste rešenje građeno za stvarnu upotrebu, sa fokusom na vek trajanja, stabilnost i pouzdan rad u različitim uslovima."
+          ],
+          "bullets": [
+            "Metalni profili i nosači",
+            "Profesionalno zavarivanje",
+            "Sigurna i kontrolisana montaža"
+          ]
+        },
+        {
+          "id": "rrethoje",
+          "number": "02",
+          "image": "rrethoje",
+          "title": "Metalne ograde",
+          "kicker": "Dvorišta, Industrija, Poslovni prostori",
+          "paragraphs": [
+            "Projektujemo i izrađujemo funkcionalne i trajne metalne ograde, prilagođene privatnim dvorištima, industrijskim halama i poslovnim prostorima. Svaka ograda se gradi uzimajući u obzir sigurnost, otpornost na atmosferske uslove i svakodnevnu upotrebu, bez kompromisa u kvalitetu izrade.",
+            "Koristimo profile i metalne elemente izabrane prema potrebama projekta, sa čistim zavarivanjem i zaštitnim tretmanom za dug vek i minimalno održavanje. Dizajn i konstrukcija prilagođavaju se terenu i zahtevima klijenta, uz stabilnost i pouzdan rad tokom vremena.",
+            "Montaža na terenu izvodi se precizno i uz jasno planiranje, čime se garantuje ispravno postavljanje, čvrsto fiksiranje i korektna estetska završnica. Rezultat je ograda građena za dugotrajnu upotrebu, koja pruža sigurnost, red i čistu vizuelnu sliku."
+          ],
+          "bullets": [
+            "Metalni profili i paneli",
+            "Antikorozivna zaštita",
+            "Prilagođavanje terenu"
+          ]
+        },
+        {
+          "id": "dyer",
+          "number": "03",
+          "image": "dyer",
+          "title": "Metalna vrata",
+          "kicker": "Sigurnost, Dimenzije po meri",
+          "paragraphs": [
+            "Projektujemo i izrađujemo čvrsta i funkcionalna metalna vrata, građena za svakodnevnu upotrebu. Svaka vrata izrađuju se prema konkretnim dimenzijama i zahtevima projekta, kombinujući strukturnu sigurnost sa čistom i korektnom završnicom.",
+            "Radimo sa kvalitetnim metalnim profilima, precizno zavarenim i tretiranim za dugotrajnu otpornost na habanje i atmosferske uslove. Dizajn se prilagođava prostoru, bilo da je reč o privatnim dvorištima, industrijskim ulazima ili poslovnim objektima, uz miran rad i dug vek trajanja.",
+            "Montaža na terenu izvodi se precizno i uz potpunu kontrolu, uz ispravno postavljanje, sigurno zatvaranje i pouzdanu upotrebu tokom vremena. Rezultat su metalna vrata građena za stvarnu sigurnost i praktičnu upotrebu, bez kompromisa u kvalitetu."
+          ],
+          "bullets": [
+            "Kvalitetni metalni materijali",
+            "Precizno zavarivanje",
+            "Montaža i podešavanje na terenu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arkitekture",
+      "slug": "arhitektura",
+      "number": "02",
+      "image": "arkitekture",
+      "nav": "Arhitektura",
+      "title": "Arhitektura & koncept",
+      "titleLine1": "Minimalna",
+      "titleLine2": "arhitektura",
+      "kicker": "Koncept, Planovi, Vizualizacija",
+      "lead": "2D planovi, 3D vizualizacije i jasna dokumentacija.",
+      "summary": "Koncept, planovi i minimalističke vizualizacije, od ideje do dokumentacije.",
+      "bullets": [
+        "2D planovi, 3D vizualizacije",
+        "Optimizacija prostora",
+        "Tehnička dokumentacija po potrebi"
+      ],
+      "seo": {
+        "title": "Arhitektonske usluge: 2D planovi i 3D render | 2DY",
+        "description": "Arhitektonski koncept, detaljni 2D planovi, 3D vizualizacije i fotorealistični renderi za stambene i poslovne objekte. Kompletna tehnička dokumentacija od 2DY.",
+        "keywords": "arhitektura Kosovo, 2D planovi, 3D vizualizacije, fotorealistični render, arhitektonsko projektovanje, tehnička dokumentacija"
+      },
+      "sections": [
+        {
+          "id": "koncept",
+          "number": "01",
+          "image": "arkitekture",
+          "title": "Koncept, 2D i 3D planovi",
+          "kicker": "Analiza, Osnove, Dokumentacija",
+          "paragraphs": [
+            "Projektujemo i dokumentujemo minimalistička i funkcionalna arhitektonska rešenja za stambene i poslovne objekte, sa fokusom na jasnoću, kvalitet i preciznu izvedbu. Svaki projekat počinje analizom potreba klijenta, lokacije i dimenzija, kako bi se razvio čist koncept koji usklađuje funkcionalnost sa estetikom.",
+            "2D planovi pripremaju se sa potpunim tehničkim detaljima, tačnim merama i specifikacijama za svaki element, tako da izvođenje na terenu bude direktno i bez nejasnoća. Svaki plan se kontroliše i proverava radi tačnosti i usklađenosti sa tehničkim standardima.",
+            "3D vizualizacije omogućavaju klijentima da vide ideju pre početka gradnje, uz mogućnost razgovora o detaljima i izmenama ako su potrebne. Jasni renderi i ilustrovani detalji pomažu u informisanijem odlučivanju i smanjuju iznenađenja tokom izvođenja.",
+            "Rezultat je kompletna dokumentacija i jasan vizuelni prikaz, arhitektonsko rešenje građeno metodom i provereno za preciznu izvedbu."
+          ],
+          "bullets": [
+            "Detaljne 2D osnove",
+            "Realistične 3D vizualizacije",
+            "Kompletna tehnička dokumentacija"
+          ]
+        },
+        {
+          "id": "renderime",
+          "number": "02",
+          "image": "renderime",
+          "title": "Vizualizacije & fotorealistični renderi",
+          "kicker": "Render, Svetlo, Materijal",
+          "paragraphs": [
+            "Kreiramo 3D vizualizacije i fotorealistične rendere koji arhitektonsku ideju pretvaraju u jasne, detaljne i uverljive slike. Svaki render priprema se uz profesionalno osvetljenje, realistične teksture i tačne vizuelne detalje, dajući stvarnu perspektivu projekta pre početka radova.",
+            "Renderi se koriste za prezentacije klijentima, investitorima i nadležnim institucijama, čime se olakšava razumevanje vizije i donošenje informisanih odluka. Oni pružaju emotivnu i realističnu perspektivu projekta, materijala, svetla, boja i kompozicije prostora.",
+            "Kada je potrebno, nudimo i kratke animacije koje prikazuju kretanje kroz prostore projekta, pomažući klijentima i uključenim stranama da bolje sagledaju tok i upotrebu prostora.",
+            "Renderi su ulaganje u jasnu komunikaciju pre projekta, smanjuju nejasnoće, grade poverenje i obezbeđuju da sve strane razumeju viziju pre nego što se ulaganje realizuje."
+          ],
+          "bullets": [
+            "HD fotorealistični renderi",
+            "Prikaz materijala i svetla",
+            "Kratke animacije"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mirembajtje",
+      "slug": "odrzavanje",
+      "number": "03",
+      "image": "mirembajtje",
+      "nav": "Održavanje",
+      "title": "Održavanje",
+      "titleLine1": "Održavanje",
+      "titleLine2": "objekata",
+      "kicker": "Preventiva, Popravke, Servis",
+      "lead": "Održavanje metalnih elemenata i prostora, radi očuvanja sigurnosti i funkcije.",
+      "summary": "Periodične kontrole, popravke i servis, brzo, uredno i odgovorno.",
+      "bullets": [
+        "Preventivno održavanje",
+        "Hitne popravke",
+        "Zamene i podešavanja"
+      ],
+      "seo": {
+        "title": "Održavanje i servis metalnih elemenata | 2DY",
+        "description": "Inspekcije, preventivno održavanje, hitne popravke i antikorozivni tretmani metalnih elemenata u stambenim, poslovnim i industrijskim objektima.",
+        "keywords": "održavanje metalnih elemenata, hitne popravke, servis, antikorozivna zaštita, inspekcija, Kosovo"
+      },
+      "sections": [
+        {
+          "id": "servisim",
+          "number": "01",
+          "image": "mirembajtje",
+          "title": "Servis & popravke",
+          "kicker": "Inspekcija, Popravka, Izveštaj",
+          "paragraphs": [
+            "Nudimo detaljne inspekcije i brze dijagnoze kako bismo prepoznali probleme pre nego što postanu kritični. Izvodimo preventivne intervencije, zamenu delova i popravke na licu mesta uz profesionalno zavarivanje i mehanička podešavanja, kao i zaštitne tretmane protiv korozije za duži vek elemenata.",
+            "Klijentima nudimo planove održavanja sa periodičnim kontrolama, dokumentacijom i transparentnim izveštavanjem o radovima. Na hitne intervencije reagujemo timom opremljenim za montažu i vraćanje u funkciju na licu mesta, uz testiranje i proveru nakon popravke.",
+            "Naš prioritet su sigurnost, funkcionalnost i trajna rešenja, prilagođena stanovima, poslovnim i industrijskim prostorima."
+          ],
+          "bullets": [
+            "Inspekcija i dijagnostika",
+            "Popravka ili zamena",
+            "Mehanička podešavanja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projekte",
+      "slug": "upravljanje-projektima",
+      "number": "04",
+      "image": "projekte",
+      "nav": "Projekti",
+      "title": "Upravljanje projektima",
+      "titleLine1": "Upravljanje",
+      "titleLine2": "projektima",
+      "kicker": "Planiranje, Koordinacija, Kontrola",
+      "lead": "Koordinacija i kontrola projekata, od planiranja do konačne predaje.",
+      "summary": "Planiranje, koordinacija i kontrola rokova i budžeta za male i srednje projekte.",
+      "bullets": [
+        "Plan rada i rokovi",
+        "Koordinacija podizvođača",
+        "Izveštavanje o napretku"
+      ],
+      "seo": {
+        "title": "Upravljanje projektima: planiranje i koordinacija | 2DY",
+        "description": "Vođenje malih i srednjih građevinskih projekata: detaljan plan rada, koordinacija timova i podizvođača, kontrola budžeta i transparentno izveštavanje.",
+        "keywords": "upravljanje projektima, nadzor radova, koordinacija izvođača, kontrola budžeta, građevinarstvo Kosovo"
+      },
+      "sections": [
+        {
+          "id": "planifikim",
+          "number": "01",
+          "image": "projekte",
+          "title": "Planiranje & koordinacija",
+          "kicker": "Rokovi, Budžet, Kvalitet",
+          "paragraphs": [
+            "Upravljamo malim i srednjim projektima uz jasno planiranje, efikasnu koordinaciju i potpunu kontrolu u svakoj fazi. Svaki projekat počinje detaljnim planom rada, u kojem se definišu aktivnosti, rokovi, resursi i predviđeni troškovi, radi organizovanog izvođenja bez zastoja.",
+            "Koordiniramo različite timove: arhitekte, inženjere, izvođače i dobavljače: uz transparentnu komunikaciju i poštovanje rokova u svakoj etapi. Napredak radova pratimo kroz redovne inspekcije, izveštavanje o progresu i brzo rešavanje svakog problema koji se pojavi.",
+            "Budžetom projekta upravljamo pažljivo, prateći stvarne troškove u odnosu na planiranu procenu, i transparentno obaveštavamo klijente o svakoj izmeni ili dodatnom trošku. Obezbeđivanje kvaliteta je prioritet, svaki rad kontrolišemo prema usvojenim standardima i tehničkim specifikacijama.",
+            "Rezultat su projekti predati na vreme, u okviru budžeta i sa očekivanim kvalitetom, mirno iskustvo za klijenta, od faze planiranja do konačne predaje."
+          ],
+          "bullets": [
+            "Detaljan plan rada",
+            "Koordinacija timova i izvođača",
+            "Izveštavanje i kontrola kvaliteta"
+          ]
+        }
+      ]
+    }
+  ],
+  "about": {
+    "slug": "o-nama",
+    "titleLine1": "O",
+    "titleLine2": "nama",
+    "kicker": "Porodica, Tradicija, Metod",
+    "lead": "Porodična kompanija sa dugogodišnjim iskustvom u obradi metala.",
+    "seo": {
+      "title": "O nama: porodična kompanija za obradu metala | 2DY",
+      "description": "2DY je porodična kompanija sa dugogodišnjim iskustvom u obradi metala, zvanično osnovana 2020. godine kao nastavak 2DY sh.p.k. Upoznajte naš tim i misiju.",
+      "keywords": "2DY, porodična kompanija, obrada metala, Kosovo, Fadil Rexhaj, nadzor radova"
+    },
+    "story": {
+      "eyebrow": "Kompanija",
+      "title": "Šta je 2DY?",
+      "paragraphs": [
+        "2DY je kompanija sa snažnom porodičnom osnovom i dugogodišnjim iskustvom u oblasti obrade metala. Zvanično osnovana 2020. godine, 2DY predstavlja nastavak kompanije 2DY sh.p.k., nasleđujući posvećenost, profesionalizam i tradiciju koju je prethodna generacija gradila godinama.",
+        "Tokom godina, 2DY se razvila u multidisciplinarnu kompaniju, proširujući svoje oblasti delovanja."
+      ],
+      "expansionIntro": "Proširene oblasti delovanja:",
+      "expansion": [
+        "Arhitektonsko i inženjersko projektovanje",
+        "Razvoj građevinskih projekata",
+        "Profesionalno tehničko savetovanje",
+        "Nadzor nad građevinskim radovima",
+        "Renoviranje poslovnih objekata i porodičnih domaćinstava"
+      ],
+      "closing": "Naš cilj je da ponudimo trajna, funkcionalna i savremena rešenja, kombinujući tradicionalno iskustvo u obradi metala sa modernim pristupom arhitekturi i inženjerstvu."
+    },
+    "mission": {
+      "eyebrow": "Misija",
+      "title": "Naša misija",
+      "body": "Misija kompanije 2DY jeste da pruži profesionalna, trajna i personalizovana rešenja u oblasti projektovanja, obrade metala, nadzora i renoviranja. Kroz posvećenost kvalitetu, efikasnosti i inovaciji, težimo izgradnji funkcionalnih i estetskih prostora koji odgovaraju potrebama naših klijenata, kako u privatnom, tako i u poslovnom sektoru. 2DY se obavezuje da bude pouzdan partner koji donosi vrednost i poverenje u svaki projekat koji preuzima, oslanjajući se na dugogodišnje iskustvo."
+    },
+    "team": {
+      "eyebrow": "Tim",
+      "title": "Ljudi",
+      "members": [
+        {
+          "name": "Fadil Rexhaj",
+          "role": "Vlasnik & CEO",
+          "email": "fadilrexhaj.b.i@gmail.com"
+        },
+        {
+          "name": "Ylli Rexhaj",
+          "role": "Inženjer mehatronike",
+          "email": "yllirexhajj@gmail.com"
+        },
+        {
+          "name": "Kujtim Paçarizi",
+          "role": "Arhitekta",
+          "email": "aekgroup.ks@gmail.com"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "slug": "kontakt",
+    "titleLine1": "Da",
+    "titleLine2": "počnemo",
+    "kicker": "Ponuda, Merenje, Konsultacije",
+    "lead": "Pošaljite nam kratak opis: šta vam treba, dimenzije ili fotografije, lokaciju i rok.",
+    "seo": {
+      "title": "Kontakt: zatražite ponudu ili merenje na terenu | 2DY",
+      "description": "Kontaktirajte 2DY za ponudu, merenje na terenu ili tehničku konsultaciju. Telefon +383 48 140 354, email fadilrexhaj.b.i@gmail.com. Odgovor u roku od 24 sata.",
+      "keywords": "kontakt 2DY, zatražite ponudu, merenje na terenu, bravarski radovi Kosovo"
+    },
+    "personLabel": "Kontakt osoba",
+    "person": "Fadil Rexhaj",
+    "role": "Vlasnik & CEO",
+    "email": "fadilrexhaj.b.i@gmail.com",
+    "phone": "+383 48 140 354",
+    "phoneRaw": "+38348140354",
+    "hoursLabel": "Radno vreme",
+    "hours": "Ponedeljak – subota, 08:00 – 18:00",
+    "areaLabel": "Područje usluga",
+    "area": "Kosovo i region",
+    "socialLabel": "Društvene mreže",
+    "form": {
+      "title": "Opišite projekat",
+      "name": "Vaše ime",
+      "namePlaceholder": "Ime i prezime",
+      "email": "Email",
+      "emailPlaceholder": "email@primer.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "+383 4X XXX XXX",
+      "service": "Usluga",
+      "servicePlaceholder": "Izaberite uslugu",
+      "location": "Lokacija",
+      "locationPlaceholder": "Grad ili selo",
+      "message": "Opis",
+      "messagePlaceholder": "Šta vam treba, dimenzije, rok…",
+      "submit": "Pošalji zahtev",
+      "sending": "Slanje…",
+      "success": "Pripremili smo nacrt u vašoj aplikaciji za e-poštu: pritisnite „Pošalji“ tamo da biste dovršili zahtev.",
+      "error": "Nismo mogli da otvorimo vašu aplikaciju za e-poštu. Pišite nam direktno na fadilrexhaj.b.i@gmail.com.",
+      "required": "Obavezno",
+      "note": "Slanjem ovog formulara prihvatate da vas kontaktiramo u vezi sa vašim zahtevom."
+    }
+  },
+  "footer": {
+    "tagline": "Bravarija, Arhitektura, Održavanje, Upravljanje projektima",
+    "servicesLabel": "Usluge",
+    "companyLabel": "Kompanija",
+    "contactLabel": "Kontakt",
+    "languageLabel": "Jezik",
+    "rights": "Sva prava zadržana.",
+    "backToTop": "Nazad na vrh"
+  },
+  "notFound": {
+    "slug": "404",
+    "code": "404",
+    "title": "Stranica nije pronađena",
+    "body": "Link koji ste pratili ne postoji ili je premešten.",
+    "action": "Nazad na početnu",
+    "seo": {
+      "title": "Stranica nije pronađena | 2DY",
+      "description": "Stranica koju tražite ne postoji."
+    }
+  }
+}

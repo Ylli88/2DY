@@ -1,0 +1,25 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), interest-cohort=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+
+/assets/img/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=604800
+
+/assets/video/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=604800
+
+/assets/css/*
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/assets/js/*
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/assets/brand/*
+  Cache-Control: public, max-age=2592000, stale-while-revalidate=604800

@@ -11,3 +11,11 @@ compress-web.js
 # Package files
 package.json
 package-lock.json
+
+# Local workspace artifacts
+.snapshots/
+.wrangler/
+
+
+.claude/
+_pulled/

@@ -1,0 +1,5 @@
+# 2DY
+User-agent: *
+Allow: /
+
+Sitemap: https://2dygroup.pages.dev/sitemap.xml
