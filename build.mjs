@@ -26,6 +26,14 @@ const esc = (s = '') =>
            .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
 const attr = esc;
+
+function socialLinks() {
+  return `<div class="social-links">
+    <a href="https://www.facebook.com/profile.php?id=61579275296622&amp;locale=hi_IN" target="_blank" rel="noopener noreferrer"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M13.5 22V13.5H16l.5-3h-3V8.7c0-.86.24-1.45 1.48-1.45H16.6V4.6c-.31-.04-1.38-.13-2.64-.13-2.61 0-4.39 1.6-4.39 4.52v1.51H7v3h2.57V22h3.93Z"/></svg><span>Facebook</span></a>
+    <a href="https://www.instagram.com/2dy_bi/" target="_blank" rel="noopener noreferrer"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true" focusable="false"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>Instagram</span></a>
+  </div>`;
+}
+
 const json = (o) => JSON.stringify(o, null, 2).replace(/</g, '\\u003c');
 
 /** Interior page ids, in nav order. */
@@ -436,6 +444,7 @@ function footer(L, ALL, id) {
           <a href="mailto:${attr(L.contact.email)}">${esc(L.contact.email)}</a>
           <a href="tel:${attr(L.contact.phoneRaw)}">${esc(L.contact.phone)}</a>
           <span>${esc(L.contact.hours)}</span>
+          ${socialLinks()}
         </div>
       </div>
 
@@ -491,6 +500,7 @@ function ctaBlock(L) {
               <span class="cta__k">${esc(L.ui.phone)}</span>
               <span class="cta__v"><a href="tel:${attr(L.contact.phoneRaw)}">${esc(L.contact.phone)}</a></span>
             </div>
+              ${socialLinks()}
           </div>
         </div>
       </div>
@@ -983,6 +993,7 @@ function renderContact(L, ALL) {
                   <span class="cta__k">${esc(L.ui.phone)}</span>
                   <span class="cta__v"><a href="tel:${attr(C.phoneRaw)}">${esc(C.phone)}</a></span>
                 </div>
+              ${socialLinks()}
                 <div class="cta__row" data-fade>
                   <span class="cta__k">${esc(C.hoursLabel)}</span>
                   <span class="cta__v">${esc(C.hours)}</span>

@@ -2418,3 +2418,11 @@ body.menu-open .menu__link { transform: none; }
   a[href^="http"]::after { content: " (" attr(href) ")"; font-size: .8em; }
   a[href^="mailto:"]::after, a[href^="tel:"]::after { content: ""; }
 }
+
+/* Social links shared by contact details and the footer. */
+.social-links { display:flex; flex-wrap:wrap; gap:12px; margin-top:12px; }
+.social-links a { display:inline-flex; align-items:center; gap:8px; min-height:44px; padding:10px 14px; border:1px solid currentColor; color:inherit; font-size:var(--t-small); }
+.social-links a svg { flex-shrink:0; }
+.social-links a span { color:inherit; }
+.social-links a:hover { opacity:.75; }
+.social-links a:focus-visible { outline:2px solid currentColor; outline-offset:4px; }
