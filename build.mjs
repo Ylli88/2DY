@@ -592,10 +592,6 @@ function renderHome(L, ALL) {
         </div>
       </div>
 
-      <div class="scroll-cue" aria-hidden="true">
-        <span>${esc(L.ui.scroll)}</span>
-        <span class="scroll-cue__rail"></span>
-      </div>
     </section>
 
     ${marquee(L)}

@@ -960,13 +960,12 @@ body.menu-open .menu__link { transform: none; }
 }
 
 /* Over photography, the dimmest on-dark token is not safe — the hero's
-   eyebrow and breadcrumb step up a level. (.scroll-cue sets its own.) */
+   eyebrow and breadcrumb step up a level. */
 /* Not --lux-3 and not even --lux-2: over a photographic plate no
    non-opaque scrim gets a mid-grey to 4.5:1, so hero chrome is full white. */
 .hero .eyebrow,
 .hero .crumbs,
-.hero .crumbs a,
-.hero .scroll-cue { color: var(--lux); }
+.hero .crumbs a { color: var(--lux); }
 
 .hero__inner {
   width: 100%;
@@ -1006,51 +1005,6 @@ body.menu-open .menu__link { transform: none; }
 .hero__lead { color: var(--lux-2); max-width: 44ch; }
 
 .hero__actions { display: flex; gap: .8rem; flex-wrap: wrap; }
-
-/* Scroll cue */
-.scroll-cue {
-  position: absolute;
-  /* 100% (the .hero box, scrollbar excluded) rather than 100vw, so the cue
-     stays pinned to the content column above --max instead of drifting to
-     the screen edge. */
-  right: max(var(--gut), calc((100% - var(--max)) / 2 + var(--gut)));
-  bottom: clamp(2.5rem, 7vh, 5rem);
-  display: grid;
-  gap: .8rem;
-  justify-items: center;
-  font-size: var(--t-micro);
-  letter-spacing: .2em;
-  text-transform: uppercase;
-  /* --lux-2, not --lux-3: this sits over photography, where the dimmest
-     on-dark token is not reliably legible. */
-  color: var(--lux-2);
-  writing-mode: vertical-rl;
-}
-
-.scroll-cue__rail {
-  width: 1px;
-  height: 68px;
-  background: var(--line-lux);
-  position: relative;
-  overflow: hidden;
-}
-
-.scroll-cue__rail::after {
-  content: "";
-  position: absolute;
-  inset-inline: 0;
-  height: 34%;
-  background: var(--bronze);
-  animation: cue 2.4s var(--ease) infinite;
-}
-
-@keyframes cue {
-  0%   { transform: translateY(-100%); }
-  55%  { transform: translateY(300%); }
-  100% { transform: translateY(300%); }
-}
-
-@media (max-width: 900px) { .scroll-cue { display: none; } }
 
 /* Page hero (interior pages) — shorter */
 .hero--page { min-height: 74svh; }
@@ -2129,8 +2083,7 @@ body.menu-open .menu__link { transform: none; }
 .js-failed .char,
 .js-failed .hdr .brand,
 .js-failed .hdr .nav__link,
-.js-failed .hdr__end > :not(.burger),
-.js-failed .scroll-cue {
+.js-failed .hdr__end > :not(.burger) {
   transform: none !important;
   opacity: 1 !important;
   filter: none !important;
@@ -2230,13 +2183,6 @@ body.menu-open .menu__link { transform: none; }
 .js body.page-ready .hdr__end > :nth-child(2) { transition-delay: .56s; }
 .js body.page-ready .hdr__end > :nth-child(3) { transition-delay: .60s; }
 
-.js .scroll-cue {
-  opacity: 0;
-  transform: translateY(14px);
-  transition: opacity 1s var(--ease-out) 1.1s, transform 1s var(--ease-out) 1.1s;
-}
-.js body.page-ready .scroll-cue { opacity: 1; transform: none; }
-
 /* Counter-up figures */
 [data-count] { font-variant-numeric: tabular-nums; }
 
@@ -2319,8 +2265,7 @@ body.menu-open .menu__link { transform: none; }
   .char,
   .hdr .brand,
   .hdr .nav__link,
-  .hdr__end > :not(.burger),
-  .scroll-cue {
+  .hdr__end > :not(.burger) {
     transform: none !important;
     opacity: 1 !important;
     filter: none !important;
@@ -2336,7 +2281,6 @@ body.menu-open .menu__link { transform: none; }
   .btn, .idx__go, .mat, .mat__sw { transform: none !important; }
   .cursor { display: none; }
   .marq__track { animation: none; }
-  .scroll-cue__rail::after { animation: none; }
 }
 
 /* --------------------------------------------------------------------------
@@ -2362,7 +2306,7 @@ body.menu-open .menu__link { transform: none; }
    28. PRINT
    -------------------------------------------------------------------------- */
 @media print {
-  .hdr, .menu, .cursor, .veil, .grain, .aura, .scroll-cue, .marq, .btn { display: none !important; }
+  .hdr, .menu, .cursor, .veil, .grain, .aura, .marq, .btn { display: none !important; }
 
   body { background: #fff; color: #000; }
 
