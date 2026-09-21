@@ -1,6 +1,8 @@
 # Legacy URLs from the previous site
 /index.html  /  301
-/sherbime-hekur.html  /punime-me-hekur/  301
+/sherbime-hekur.html  /punime-me-metal/  301
+/punime-me-hekur  /punime-me-metal/  301
+/punime-me-hekur/  /punime-me-metal/  301
 /sherbime-arkitekture.html  /arkitekture/  301
 /sherbime-mirembajtje.html  /mirembajtje/  301
 /sherbime-projekte.html  /menaxhim-projektesh/  301

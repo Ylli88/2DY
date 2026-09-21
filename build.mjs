@@ -1175,6 +1175,8 @@ function redirects(DEFAULT) {
   const map = {
     '/index.html': urlFor(DEFAULT, 'home'),
     '/sherbime-hekur.html': urlFor(DEFAULT, 'hekur'),
+    '/punime-me-hekur': urlFor(DEFAULT, 'hekur'),
+    '/punime-me-hekur/': urlFor(DEFAULT, 'hekur'),
     '/sherbime-arkitekture.html': urlFor(DEFAULT, 'arkitekture'),
     '/sherbime-mirembajtje.html': urlFor(DEFAULT, 'mirembajtje'),
     '/sherbime-projekte.html': urlFor(DEFAULT, 'projekte'),
