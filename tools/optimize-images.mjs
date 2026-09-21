@@ -11,7 +11,7 @@
  * which build.mjs reads to emit correct <picture> markup.
  */
 import sharp from 'sharp';
-import { readdir, mkdir, writeFile, rm, stat } from 'node:fs/promises';
+import { readdir, readFile, mkdir, writeFile, rm, stat } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -112,15 +112,7 @@ async function main() {
   }
 
   // ---- favicons ----------------------------------------------------------
-  // A solid bronze-on-ink monogram tile; crisper at small sizes than a photo.
-  const monogram = Buffer.from(
-    `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-       <rect width="512" height="512" fill="#0B0C0D"/>
-       <text x="256" y="256" fill="#F5F4F1" font-family="Helvetica,Arial,sans-serif"
-             font-size="215" font-weight="200" letter-spacing="10"
-             text-anchor="middle" dominant-baseline="central">2DY</text>
-     </svg>`
-  );
+  const monogram = await readFile(path.join(SRC, 'favicon.svg'));
 
   for (const size of [16, 32, 180, 192, 512]) {
     const buf = await sharp(monogram).resize(size, size).png().toBuffer();
