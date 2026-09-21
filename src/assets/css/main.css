@@ -281,19 +281,7 @@ a {
   color: var(--ink-3);
   display: inline-flex;
   align-items: center;
-  gap: .7em;
 }
-
-.eyebrow::before {
-  content: "";
-  width: 1.8em;
-  height: 1px;
-  background: currentColor;
-  opacity: .55;
-  flex: none;
-}
-
-.eyebrow--bare::before { display: none; }
 
 .lead {
   font-size: var(--t-lead);
