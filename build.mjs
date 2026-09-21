@@ -8,6 +8,7 @@
    ========================================================================= */
 import { readdir, readFile, writeFile, mkdir, rm, cp } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -40,6 +41,7 @@ const json = (o) => JSON.stringify(o, null, 2).replace(/</g, '\\u003c');
 const NAV_ORDER = ['hekur', 'arkitekture', 'mirembajtje', 'projekte', 'about', 'contact'];
 
 let IMAGES = {};
+let CSS_VERSION = '';
 /** Any image referenced by a template but absent from the manifest. Fatal. */
 const MISSING_IMAGES = new Set();
 
@@ -308,7 +310,7 @@ ${noindex ? '' : `  <meta property="og:url" content="${attr(canonical)}">`}
   ${(L.meta.fontSubsets || ['geist-latin'])
       .map((s) => `<link rel="preload" href="/assets/fonts/${s}.woff2" as="font" type="font/woff2" crossorigin>`)
       .join('\n  ')}
-  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/main.css?v=${CSS_VERSION}">
   ${heroM ? `<link rel="preload" as="image" fetchpriority="high"
         href="/assets/img/${preloadHero}-1600.avif"
         imagesrcset="${heroM.widths.map((w) => `/assets/img/${preloadHero}-${w}.avif ${w}w`).join(', ')}"
@@ -661,7 +663,7 @@ function renderHome(L, ALL) {
         <div class="forge__inner">
           <div class="forge__copy" data-stagger="100">
             <span class="eyebrow" data-fade>${esc(H.forge.eyebrow)}</span>
-            <h2 class="forge__t" data-rise><span>${esc(H.forge.title)}</span></h2>
+            <h2 class="forge__t" data-fade><span>${esc(H.forge.title)}</span></h2>
             <p class="forge__b" data-fade>${esc(H.forge.body)}</p>
             <span class="forge__hint" data-fade>
               <span class="on-hover">${esc(H.forge.hintHover)}</span>
@@ -1198,6 +1200,10 @@ function redirects(DEFAULT) {
    ------------------------------------------------------------------------- */
 async function main() {
   const t0 = Date.now();
+
+  CSS_VERSION = createHash('sha256')
+    .update(await readFile(path.join(SRC, 'assets', 'css', 'main.css')))
+    .digest('hex').slice(0, 12);
 
   // manifest
   const manifestPath = path.join(SRC, 'assets', 'img', 'manifest.json');

@@ -1499,6 +1499,7 @@ body.menu-open .menu__link { transform: none; }
 
 @media (max-width: 820px) {
   .forge { min-height: 150svh; }
+  .forge__sticky { overflow: visible; }
   .forge__stage::after {
     background: linear-gradient(to top, rgba(11,12,13,.9) 0%, rgba(11,12,13,.5) 55%, rgba(11,12,13,.28) 100%);
   }
