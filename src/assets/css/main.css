@@ -1465,7 +1465,8 @@ body.menu-open .menu__link { transform: none; }
 .forge__copy {
   display: grid;
   gap: clamp(1rem, 2.5vh, 1.8rem);
-  max-width: 34ch;
+  width: min(100%, 50rem);
+  min-width: 0;
 }
 
 .forge__t {
@@ -1474,32 +1475,18 @@ body.menu-open .menu__link { transform: none; }
   text-transform: uppercase;
   letter-spacing: -.014em;
   line-height: .96;
+  overflow-wrap: anywhere;
 }
 
-.forge__b { color: var(--lux-2); font-size: var(--t-lead); }
+.forge__b { color: var(--lux-2); font-size: var(--t-lead); max-width: 34ch; }
 
 .forge__hint {
   display: inline-flex;
   align-items: center;
-  gap: .7em;
   font-size: var(--t-micro);
   letter-spacing: .2em;
   text-transform: uppercase;
   color: var(--lux-3);
-}
-
-.forge__hint::before {
-  content: "";
-  width: 7px; height: 7px;
-  border-radius: 50%;
-  background: var(--bronze-lt);
-  flex: none;
-  animation: pulse-dot 2.6s var(--ease) infinite;
-}
-
-@keyframes pulse-dot {
-  0%, 100% { opacity: .3; transform: scale(.85); }
-  50%      { opacity: 1;  transform: scale(1.15); }
 }
 
 /* Touch devices get no pointer light, so say "scroll" instead of "move" */
@@ -1515,7 +1502,6 @@ body.menu-open .menu__link { transform: none; }
   .forge__stage::after {
     background: linear-gradient(to top, rgba(11,12,13,.9) 0%, rgba(11,12,13,.5) 55%, rgba(11,12,13,.28) 100%);
   }
-  .forge__copy { max-width: none; }
 }
 
 /* --------------------------------------------------------------------------
@@ -2359,7 +2345,6 @@ body.menu-open .menu__link { transform: none; }
   .grain, .aura { display: none; }
   .hero__media img { transform: scale(1); }
   .btn, .idx__go, .mat, .mat__sw { transform: none !important; }
-  .forge__hint::before { animation: none; }
   .cursor { display: none; }
   .marq__track { animation: none; }
   .scroll-cue__rail::after { animation: none; }
