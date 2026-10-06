@@ -16,7 +16,7 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const SRC = path.join(ROOT, 'src');
 const DIST = path.join(ROOT, 'dist');
 
-const SITE = (process.env.SITE_URL || 'https://2dy-website.pages.dev').replace(/\/$/, '');
+const SITE = (process.env.SITE_URL || 'https://2dy.org').replace(/\/$/, '');
 const BUILT = new Date().toISOString().slice(0, 10);
 
 /* -------------------------------------------------------------------------
